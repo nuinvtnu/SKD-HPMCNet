@@ -1,0 +1,2197 @@
+ID	Position	Residue	PTMscores	Cutoff=0.5
+>ECI1_MOUSE_229				
+ECI1_MOUSE_229	3	S	Phosphoserine:0.207	None
+ECI1_MOUSE_229	7	S	Phosphoserine:0.436	None
+ECI1_MOUSE_229	10	T	Phosphothreonine:0.224	None
+ECI1_MOUSE_229	19	S	Phosphoserine:0.558	Phosphoserine:0.558
+>BPHL_MOUSE_119				
+>CPSM_HUMAN_1150				
+CPSM_HUMAN_1150	5	S	Phosphoserine:0.803	Phosphoserine:0.803
+CPSM_HUMAN_1150	17	T	Phosphothreonine:0.152	None
+CPSM_HUMAN_1150	20	S	Phosphoserine:0.57	Phosphoserine:0.57
+>AL1B1_MOUSE_381				
+>AADAT_MOUSE_367				
+AADAT_MOUSE_367	8	S	Phosphoserine:0.642	Phosphoserine:0.642
+AADAT_MOUSE_367	10	T	Phosphothreonine:0.362	None
+>EST2A_MOUSE_296				
+EST2A_MOUSE_296	10	S	Phosphoserine:0.781	Phosphoserine:0.781
+>ECHB_MOUSE_191				
+ECHB_MOUSE_191	12	T	Phosphothreonine:0.29	None
+ECHB_MOUSE_191	18	S	Phosphoserine:0.813	Phosphoserine:0.813
+ECHB_MOUSE_191	21	S	Phosphoserine:0.553	Phosphoserine:0.553
+>K2C8_MOUSE_301				
+K2C8_MOUSE_301	7	T	Phosphothreonine:0.411	None
+K2C8_MOUSE_301	19	T	Phosphothreonine:0.236	None
+K2C8_MOUSE_301	21	T	Phosphothreonine:0.213	None
+>KAD3_MOUSE_20				
+KAD3_MOUSE_20	9	S	Phosphoserine:0.807	Phosphoserine:0.807
+KAD3_MOUSE_20	13	T	Phosphothreonine:0.556	Phosphothreonine:0.556
+KAD3_MOUSE_20	15	S	Phosphoserine:0.599	Phosphoserine:0.599
+KAD3_MOUSE_20	16	S	Phosphoserine:0.406	None
+KAD3_MOUSE_20	19	T	Phosphothreonine:0.284	None
+>CPSM_HUMAN_532				
+CPSM_HUMAN_532	15	T	Phosphothreonine:0.353	None
+CPSM_HUMAN_532	16	S	Phosphoserine:0.812	Phosphoserine:0.812
+CPSM_HUMAN_532	19	S	Phosphoserine:0.785	Phosphoserine:0.785
+>HMGCL_MOUSE_137				
+HMGCL_MOUSE_137	5	S	Phosphoserine:0.611	Phosphoserine:0.611
+HMGCL_MOUSE_137	9	T	Phosphothreonine:0.385	None
+HMGCL_MOUSE_137	16	S	Phosphoserine:0.843	Phosphoserine:0.843
+HMGCL_MOUSE_137	20	S	Phosphoserine:0.796	Phosphoserine:0.796
+>ACADV_MOUSE_557				
+>GNMT_MOUSE_201				
+GNMT_MOUSE_201	7	S	Phosphoserine:0.325	None
+GNMT_MOUSE_201	10	T	Phosphothreonine:0.309	None
+GNMT_MOUSE_201	14	T	Phosphothreonine:0.261	None
+GNMT_MOUSE_201	15	T	Phosphothreonine:0.189	None
+GNMT_MOUSE_201	16	S	Phosphoserine:0.199	None
+GNMT_MOUSE_201	19	T	Phosphothreonine:0.206	None
+>ECHA_MOUSE_350				
+>CH10_MOUSE_66				
+CH10_MOUSE_66	2	S	Phosphoserine:0.81	Phosphoserine:0.81
+CH10_MOUSE_66	9	S	Phosphoserine:0.622	Phosphoserine:0.622
+>ECHB_MOUSE_362				
+ECHB_MOUSE_362	6	T	Phosphothreonine:0.435	None
+ECHB_MOUSE_362	9	T	Phosphothreonine:0.856	Phosphothreonine:0.856
+ECHB_MOUSE_362	19	T	Phosphothreonine:0.241	None
+>CATA_MOUSE_499				
+>DNAK_MYCTU_85				
+DNAK_MYCTU_85	1	S	Phosphoserine:0.811	Phosphoserine:0.811
+DNAK_MYCTU_85	4	S	Phosphoserine:0.805	Phosphoserine:0.805
+DNAK_MYCTU_85	13	T	Phosphothreonine:0.389	None
+DNAK_MYCTU_85	18	S	Phosphoserine:0.574	Phosphoserine:0.574
+>DHB4_MOUSE_81				
+DHB4_MOUSE_81	5	S	Phosphoserine:0.836	Phosphoserine:0.836
+DHB4_MOUSE_81	15	T	Phosphothreonine:0.21	None
+DHB4_MOUSE_81	19	T	Phosphothreonine:0.167	None
+>ECI1_MOUSE_247				
+ECI1_MOUSE_247	1	S	Phosphoserine:0.488	None
+ECI1_MOUSE_247	5	T	Phosphothreonine:0.271	None
+ECI1_MOUSE_247	13	T	Phosphothreonine:0.818	Phosphothreonine:0.818
+>HINT2_MOUSE_45				
+HINT2_MOUSE_45	1	S	Phosphoserine:0.849	Phosphoserine:0.849
+HINT2_MOUSE_45	4	S	Phosphoserine:0.719	Phosphoserine:0.719
+HINT2_MOUSE_45	18	S	Phosphoserine:0.904	Phosphoserine:0.904
+HINT2_MOUSE_45	20	T	Phosphothreonine:0.691	Phosphothreonine:0.691
+>THIL_MOUSE_80				
+>CPSM_HUMAN_280				
+CPSM_HUMAN_280	15	S	Phosphoserine:0.391	None
+>CH10_MOUSE_36				
+CH10_MOUSE_36	2	T	Phosphothreonine:0.407	None
+CH10_MOUSE_36	12	S	Phosphoserine:0.758	Phosphoserine:0.758
+CH10_MOUSE_36	20	T	Phosphothreonine:0.257	None
+>URIC_MOUSE_72				
+URIC_MOUSE_72	2	S	Phosphoserine:0.69	Phosphoserine:0.69
+URIC_MOUSE_72	7	T	Phosphothreonine:0.189	None
+URIC_MOUSE_72	9	T	Phosphothreonine:0.405	None
+URIC_MOUSE_72	13	T	Phosphothreonine:0.177	None
+>CSPA_MYCTU_57				
+CSPA_MYCTU_57	9	S	Phosphoserine:0.897	Phosphoserine:0.897
+CSPA_MYCTU_57	16	T	Phosphothreonine:0.305	None
+CSPA_MYCTU_57	20	S	Phosphoserine:0.757	Phosphoserine:0.757
+>ES1_MOUSE_221				
+ES1_MOUSE_221	14	T	Phosphothreonine:0.313	None
+>ECI2_MOUSE_90				
+ECI2_MOUSE_90	20	S	Phosphoserine:0.841	Phosphoserine:0.841
+>M2GD_MOUSE_107				
+M2GD_MOUSE_107	9	S	Phosphoserine:0.701	Phosphoserine:0.701
+M2GD_MOUSE_107	20	T	Phosphothreonine:0.36	None
+>ACSM1_MOUSE_352				
+ACSM1_MOUSE_352	1	S	Phosphoserine:0.704	Phosphoserine:0.704
+ACSM1_MOUSE_352	14	T	Phosphothreonine:0.216	None
+ACSM1_MOUSE_352	17	S	Phosphoserine:0.687	Phosphoserine:0.687
+>NPS3B_MOUSE_107				
+NPS3B_MOUSE_107	1	T	Phosphothreonine:0.535	Phosphothreonine:0.535
+>AATM_MOUSE_296				
+AATM_MOUSE_296	7	T	Phosphothreonine:0.271	None
+AATM_MOUSE_296	21	S	Phosphoserine:0.371	None
+>FUMH_MOUSE_119				
+FUMH_MOUSE_119	7	S	Phosphoserine:0.704	Phosphoserine:0.704
+>ATPO_MOUSE_90				
+ATPO_MOUSE_90	7	T	Phosphothreonine:0.243	None
+ATPO_MOUSE_90	12	S	Phosphoserine:0.854	Phosphoserine:0.854
+ATPO_MOUSE_90	17	T	Phosphothreonine:0.273	None
+>ACOX1_MOUSE_65				
+ACOX1_MOUSE_65	1	T	Phosphothreonine:0.233	None
+ACOX1_MOUSE_65	3	S	Phosphoserine:0.403	None
+ACOX1_MOUSE_65	13	S	Phosphoserine:0.373	None
+ACOX1_MOUSE_65	15	T	Phosphothreonine:0.208	None
+>CAH5B_MOUSE_249				
+CAH5B_MOUSE_249	2	S	Phosphoserine:0.468	None
+CAH5B_MOUSE_249	4	S	Phosphoserine:0.36	None
+CAH5B_MOUSE_249	6	T	Phosphothreonine:0.315	None
+>CYC2_MOUSE_87				
+CYC2_MOUSE_87	3	T	Phosphothreonine:0.522	Phosphothreonine:0.522
+CYC2_MOUSE_87	14	S	Phosphoserine:0.716	Phosphoserine:0.716
+>SODM_MOUSE_130				
+SODM_MOUSE_130	8	S	Phosphoserine:0.845	Phosphoserine:0.845
+SODM_MOUSE_130	17	T	Phosphothreonine:0.171	None
+SODM_MOUSE_130	20	S	Phosphoserine:0.46	None
+>ECHA_MOUSE_569				
+ECHA_MOUSE_569	17	T	Phosphothreonine:0.211	None
+ECHA_MOUSE_569	18	T	Phosphothreonine:0.276	None
+>RIDA_MOUSE_13				
+RIDA_MOUSE_13	1	S	Phosphoserine:0.346	None
+RIDA_MOUSE_13	8	S	Phosphoserine:0.487	None
+RIDA_MOUSE_13	9	T	Phosphothreonine:0.234	None
+RIDA_MOUSE_13	10	T	Phosphothreonine:0.187	None
+RIDA_MOUSE_13	20	S	Phosphoserine:0.812	Phosphoserine:0.812
+>DECR_MOUSE_260				
+DECR_MOUSE_260	1	S	Phosphoserine:0.592	Phosphoserine:0.592
+DECR_MOUSE_260	6	T	Phosphothreonine:0.286	None
+>SUCB2_MOUSE_67				
+SUCB2_MOUSE_67	9	T	Phosphothreonine:0.256	None
+>GRHPR_MOUSE_66				
+GRHPR_MOUSE_66	5	S	Phosphoserine:0.6	Phosphoserine:0.6
+>MMSA_MOUSE_76				
+MMSA_MOUSE_76	9	S	Phosphoserine:0.426	None
+MMSA_MOUSE_76	10	T	Phosphothreonine:0.257	None
+MMSA_MOUSE_76	20	S	Phosphoserine:0.752	Phosphoserine:0.752
+>NNRE_MOUSE_142				
+NNRE_MOUSE_142	2	T	Phosphothreonine:0.228	None
+NNRE_MOUSE_142	15	T	Phosphothreonine:0.2	None
+NNRE_MOUSE_142	19	T	Phosphothreonine:0.157	None
+>DHTK1_MOUSE_828				
+DHTK1_MOUSE_828	6	S	Phosphoserine:0.693	Phosphoserine:0.693
+DHTK1_MOUSE_828	9	T	Phosphothreonine:0.318	None
+>FAHD2_MOUSE_128				
+FAHD2_MOUSE_128	12	S	Phosphoserine:0.879	Phosphoserine:0.879
+FAHD2_MOUSE_128	17	S	Phosphoserine:0.321	None
+FAHD2_MOUSE_128	20	S	Phosphoserine:0.552	Phosphoserine:0.552
+FAHD2_MOUSE_128	21	S	Phosphoserine:0.407	None
+>ACO13_MOUSE_17				
+>NLTP_MOUSE_40				
+NLTP_MOUSE_40	3	S	Phosphoserine:0.763	Phosphoserine:0.763
+>TPX_MYCTU_90				
+TPX_MYCTU_90	3	S	Phosphoserine:0.331	None
+TPX_MYCTU_90	19	T	Phosphothreonine:0.284	None
+>ACO13_MOUSE_127				
+ACO13_MOUSE_127	1	S	Phosphoserine:0.735	Phosphoserine:0.735
+ACO13_MOUSE_127	5	T	Phosphothreonine:0.33	None
+ACO13_MOUSE_127	8	T	Phosphothreonine:0.373	None
+ACO13_MOUSE_127	9	T	Phosphothreonine:0.426	None
+ACO13_MOUSE_127	19	T	Phosphothreonine:0.249	None
+>M2GD_MOUSE_788				
+M2GD_MOUSE_788	5	S	Phosphoserine:0.447	None
+M2GD_MOUSE_788	16	T	Phosphothreonine:0.326	None
+M2GD_MOUSE_788	17	T	Phosphothreonine:0.237	None
+M2GD_MOUSE_788	18	S	Phosphoserine:0.558	Phosphoserine:0.558
+M2GD_MOUSE_788	20	S	Phosphoserine:0.796	Phosphoserine:0.796
+>CH10_MOUSE_80				
+CH10_MOUSE_80	10	T	Phosphothreonine:0.7	Phosphothreonine:0.7
+>ACO13_MOUSE_43				
+ACO13_MOUSE_43	17	T	Phosphothreonine:0.154	None
+>CH602_MYCTU_465				
+CH602_MYCTU_465	1	S	Phosphoserine:0.743	Phosphoserine:0.743
+>RGN_MOUSE_239				
+RGN_MOUSE_239	3	T	Phosphothreonine:0.238	None
+RGN_MOUSE_239	9	T	Phosphothreonine:0.324	None
+RGN_MOUSE_239	17	T	Phosphothreonine:0.165	None
+RGN_MOUSE_239	18	T	Phosphothreonine:0.204	None
+RGN_MOUSE_239	19	S	Phosphoserine:0.307	None
+>K2C8_MOUSE_353				
+K2C8_MOUSE_353	15	T	Phosphothreonine:0.162	None
+>PECR_MOUSE_97				
+PECR_MOUSE_97	2	S	Phosphoserine:0.355	None
+PECR_MOUSE_97	7	S	Phosphoserine:0.247	None
+PECR_MOUSE_97	8	T	Phosphothreonine:0.22	None
+>ECHP_MOUSE_705				
+ECHP_MOUSE_705	7	S	Phosphoserine:0.888	Phosphoserine:0.888
+ECHP_MOUSE_705	15	S	Phosphoserine:0.693	Phosphoserine:0.693
+ECHP_MOUSE_705	21	S	Phosphoserine:0.671	Phosphoserine:0.671
+>MDHM_MOUSE_324				
+MDHM_MOUSE_324	13	S	Phosphoserine:0.795	Phosphoserine:0.795
+>AATM_MOUSE_90				
+>ACON_MOUSE_50				
+ACON_MOUSE_50	1	S	Phosphoserine:0.424	None
+>ACADV_MOUSE_277				
+ACADV_MOUSE_277	7	T	Phosphothreonine:0.292	None
+ACADV_MOUSE_277	15	T	Phosphothreonine:0.171	None
+>ECHA_MOUSE_644				
+ECHA_MOUSE_644	10	S	Phosphoserine:0.771	Phosphoserine:0.771
+ECHA_MOUSE_644	14	S	Phosphoserine:0.86	Phosphoserine:0.86
+ECHA_MOUSE_644	17	S	Phosphoserine:0.836	Phosphoserine:0.836
+>CPSM_HUMAN_772				
+CPSM_HUMAN_772	4	S	Phosphoserine:0.397	None
+CPSM_HUMAN_772	10	T	Phosphothreonine:0.175	None
+>FUMH_MOUSE_289				
+FUMH_MOUSE_289	4	T	Phosphothreonine:0.223	None
+FUMH_MOUSE_289	20	T	Phosphothreonine:0.194	None
+>CLYBL_MOUSE_55				
+CLYBL_MOUSE_55	18	S	Phosphoserine:0.635	Phosphoserine:0.635
+>TRXR2_MOUSE_64				
+TRXR2_MOUSE_64	21	S	Phosphoserine:0.637	Phosphoserine:0.637
+>AL9A1_MOUSE_30				
+AL9A1_MOUSE_30	7	S	Phosphoserine:0.781	Phosphoserine:0.781
+AL9A1_MOUSE_30	9	T	Phosphothreonine:0.5	None
+AL9A1_MOUSE_30	17	T	Phosphothreonine:0.165	None
+>ATP5E_MOUSE_21				
+ATP5E_MOUSE_21	1	S	Phosphoserine:0.232	None
+ATP5E_MOUSE_21	6	S	Phosphoserine:0.504	Phosphoserine:0.504
+ATP5E_MOUSE_21	19	T	Phosphothreonine:0.193	None
+>GLYAL_MOUSE_270				
+GLYAL_MOUSE_270	6	T	Phosphothreonine:0.169	None
+GLYAL_MOUSE_270	9	T	Phosphothreonine:0.311	None
+GLYAL_MOUSE_270	17	S	Phosphoserine:0.233	None
+GLYAL_MOUSE_270	19	T	Phosphothreonine:0.184	None
+>MDHM_MOUSE_307				
+MDHM_MOUSE_307	13	T	Phosphothreonine:0.837	Phosphothreonine:0.837
+>ACON_MOUSE_549				
+ACON_MOUSE_549	5	T	Phosphothreonine:0.214	None
+ACON_MOUSE_549	13	S	Phosphoserine:0.592	Phosphoserine:0.592
+ACON_MOUSE_549	14	S	Phosphoserine:0.555	Phosphoserine:0.555
+ACON_MOUSE_549	21	S	Phosphoserine:0.415	None
+>HEM6_MOUSE_393				
+HEM6_MOUSE_393	10	T	Phosphothreonine:0.255	None
+HEM6_MOUSE_393	16	T	Phosphothreonine:0.772	Phosphothreonine:0.772
+HEM6_MOUSE_393	19	S	Phosphoserine:0.643	Phosphoserine:0.643
+>DLDH_MOUSE_166				
+DLDH_MOUSE_166	2	T	Phosphothreonine:0.445	None
+DLDH_MOUSE_166	8	T	Phosphothreonine:0.459	None
+DLDH_MOUSE_166	10	T	Phosphothreonine:0.469	None
+DLDH_MOUSE_166	15	S	Phosphoserine:0.804	Phosphoserine:0.804
+DLDH_MOUSE_166	16	T	Phosphothreonine:0.444	None
+DLDH_MOUSE_166	21	T	Phosphothreonine:0.437	None
+>CPSM_HUMAN_841				
+CPSM_HUMAN_841	5	S	Phosphoserine:0.721	Phosphoserine:0.721
+CPSM_HUMAN_841	14	S	Phosphoserine:0.783	Phosphoserine:0.783
+CPSM_HUMAN_841	17	S	Phosphoserine:0.391	None
+CPSM_HUMAN_841	18	S	Phosphoserine:0.484	None
+CPSM_HUMAN_841	19	T	Phosphothreonine:0.188	None
+>CH601_MYCTU_270				
+CH601_MYCTU_270	9	T	Phosphothreonine:0.387	None
+>ACO13_MOUSE_27				
+ACO13_MOUSE_27	13	T	Phosphothreonine:0.471	None
+ACO13_MOUSE_27	16	S	Phosphoserine:0.42	None
+>CPSM_MOUSE_307				
+CPSM_MOUSE_307	4	T	Phosphothreonine:0.239	None
+CPSM_MOUSE_307	12	S	Phosphoserine:0.507	Phosphoserine:0.507
+CPSM_MOUSE_307	16	S	Phosphoserine:0.357	None
+>ES1_MOUSE_201				
+ES1_MOUSE_201	1	T	Phosphothreonine:0.7	Phosphothreonine:0.7
+ES1_MOUSE_201	17	T	Phosphothreonine:0.401	None
+>ALDH2_MOUSE_75				
+>MACD1_MOUSE_101				
+MACD1_MOUSE_101	1	T	Phosphothreonine:0.374	None
+MACD1_MOUSE_101	8	S	Phosphoserine:0.632	Phosphoserine:0.632
+MACD1_MOUSE_101	14	S	Phosphoserine:0.693	Phosphoserine:0.693
+>MMSA_MOUSE_364				
+MMSA_MOUSE_364	7	T	Phosphothreonine:0.838	Phosphothreonine:0.838
+MMSA_MOUSE_364	20	S	Phosphoserine:0.678	Phosphoserine:0.678
+>ECHA_MOUSE_415				
+ECHA_MOUSE_415	14	T	Phosphothreonine:0.519	Phosphothreonine:0.519
+ECHA_MOUSE_415	15	S	Phosphoserine:0.83	Phosphoserine:0.83
+ECHA_MOUSE_415	20	S	Phosphoserine:0.816	Phosphoserine:0.816
+>ACADL_MOUSE_81				
+ACADL_MOUSE_81	7	T	Phosphothreonine:0.293	None
+ACADL_MOUSE_81	16	S	Phosphoserine:0.434	None
+>ES1_MOUSE_186				
+ES1_MOUSE_186	16	T	Phosphothreonine:0.218	None
+>THIL_MOUSE_335				
+>PECR_MOUSE_32				
+PECR_MOUSE_32	3	T	Phosphothreonine:0.567	Phosphothreonine:0.567
+PECR_MOUSE_32	7	T	Phosphothreonine:0.435	None
+PECR_MOUSE_32	14	S	Phosphoserine:0.734	Phosphoserine:0.734
+>CISY_MOUSE_52				
+CISY_MOUSE_52	9	T	Phosphothreonine:0.572	Phosphothreonine:0.572
+CISY_MOUSE_52	17	T	Phosphothreonine:0.216	None
+>ACADM_MOUSE_217				
+ACADM_MOUSE_217	1	S	Phosphoserine:0.612	Phosphoserine:0.612
+ACADM_MOUSE_217	10	S	Phosphoserine:0.432	None
+ACADM_MOUSE_217	14	T	Phosphothreonine:0.401	None
+>AATM_MOUSE_59				
+AATM_MOUSE_59	7	T	Phosphothreonine:0.568	Phosphothreonine:0.568
+AATM_MOUSE_59	9	S	Phosphoserine:0.595	Phosphoserine:0.595
+>KEG1_MOUSE_19				
+KEG1_MOUSE_19	8	S	Phosphoserine:0.82	Phosphoserine:0.82
+KEG1_MOUSE_19	16	S	Phosphoserine:0.23	None
+>HIBCH_MOUSE_352				
+HIBCH_MOUSE_352	14	T	Phosphothreonine:0.756	Phosphothreonine:0.756
+>URIC_MOUSE_220				
+>ECHA_MOUSE_292				
+ECHA_MOUSE_292	4	T	Phosphothreonine:0.359	None
+ECHA_MOUSE_292	13	T	Phosphothreonine:0.319	None
+>3HIDH_MOUSE_78				
+3HIDH_MOUSE_78	19	S	Phosphoserine:0.721	Phosphoserine:0.721
+3HIDH_MOUSE_78	20	S	Phosphoserine:0.897	Phosphoserine:0.897
+>NPS3B_MOUSE_48				
+NPS3B_MOUSE_48	4	T	Phosphothreonine:0.199	None
+NPS3B_MOUSE_48	10	S	Phosphoserine:0.446	None
+NPS3B_MOUSE_48	12	T	Phosphothreonine:0.469	None
+>AL4A1_MOUSE_51				
+AL4A1_MOUSE_51	3	S	Phosphoserine:0.876	Phosphoserine:0.876
+>ACSF2_MOUSE_199				
+ACSF2_MOUSE_199	19	S	Phosphoserine:0.518	Phosphoserine:0.518
+>NLTP_MOUSE_522				
+NLTP_MOUSE_522	5	S	Phosphoserine:0.537	Phosphoserine:0.537
+>CPSM_HUMAN_908				
+CPSM_HUMAN_908	1	S	Phosphoserine:0.833	Phosphoserine:0.833
+CPSM_HUMAN_908	3	T	Phosphothreonine:0.44	None
+CPSM_HUMAN_908	6	T	Phosphothreonine:0.431	None
+CPSM_HUMAN_908	16	S	Phosphoserine:0.65	Phosphoserine:0.65
+CPSM_HUMAN_908	21	S	Phosphoserine:0.558	Phosphoserine:0.558
+>ACON_MOUSE_591				
+ACON_MOUSE_591	13	T	Phosphothreonine:0.218	None
+ACON_MOUSE_591	14	T	Phosphothreonine:0.244	None
+ACON_MOUSE_591	18	S	Phosphoserine:0.438	None
+>ETFA_MOUSE_59				
+ETFA_MOUSE_59	4	S	Phosphoserine:0.368	None
+ETFA_MOUSE_59	10	T	Phosphothreonine:0.152	None
+>AL4A1_MOUSE_118				
+>ECHA_MOUSE_519				
+ECHA_MOUSE_519	5	T	Phosphothreonine:0.176	None
+ECHA_MOUSE_519	6	T	Phosphothreonine:0.249	None
+ECHA_MOUSE_519	9	T	Phosphothreonine:0.494	None
+ECHA_MOUSE_519	10	S	Phosphoserine:0.52	Phosphoserine:0.52
+ECHA_MOUSE_519	13	T	Phosphothreonine:0.404	None
+ECHA_MOUSE_519	14	T	Phosphothreonine:0.317	None
+ECHA_MOUSE_519	16	S	Phosphoserine:0.443	None
+>PCCA_MOUSE_492				
+PCCA_MOUSE_492	7	T	Phosphothreonine:0.154	None
+PCCA_MOUSE_492	15	S	Phosphoserine:0.31	None
+PCCA_MOUSE_492	16	T	Phosphothreonine:0.147	None
+PCCA_MOUSE_492	20	S	Phosphoserine:0.647	Phosphoserine:0.647
+>GCSP_MOUSE_877				
+GCSP_MOUSE_877	6	T	Phosphothreonine:0.259	None
+GCSP_MOUSE_877	12	S	Phosphoserine:0.797	Phosphoserine:0.797
+>SDHA_MOUSE_182				
+SDHA_MOUSE_182	6	S	Phosphoserine:0.724	Phosphoserine:0.724
+>NPS3B_MOUSE_45				
+NPS3B_MOUSE_45	1	T	Phosphothreonine:0.296	None
+NPS3B_MOUSE_45	7	T	Phosphothreonine:0.146	None
+NPS3B_MOUSE_45	13	S	Phosphoserine:0.259	None
+NPS3B_MOUSE_45	15	T	Phosphothreonine:0.249	None
+>CPSM_MOUSE_935				
+CPSM_MOUSE_935	4	T	Phosphothreonine:0.185	None
+>THIL_MOUSE_240				
+THIL_MOUSE_240	1	S	Phosphoserine:0.529	Phosphoserine:0.529
+THIL_MOUSE_240	4	T	Phosphothreonine:0.697	Phosphothreonine:0.697
+THIL_MOUSE_240	7	T	Phosphothreonine:0.289	None
+THIL_MOUSE_240	9	S	Phosphoserine:0.632	Phosphoserine:0.632
+>ACSM1_MOUSE_545				
+ACSM1_MOUSE_545	1	S	Phosphoserine:0.677	Phosphoserine:0.677
+ACSM1_MOUSE_545	3	T	Phosphothreonine:0.326	None
+ACSM1_MOUSE_545	16	S	Phosphoserine:0.36	None
+ACSM1_MOUSE_545	21	T	Phosphothreonine:0.374	None
+>HIBCH_MOUSE_300				
+HIBCH_MOUSE_300	13	S	Phosphoserine:0.858	Phosphoserine:0.858
+HIBCH_MOUSE_300	15	T	Phosphothreonine:0.35	None
+HIBCH_MOUSE_300	16	S	Phosphoserine:0.361	None
+HIBCH_MOUSE_300	20	T	Phosphothreonine:0.261	None
+>CPSM_MOUSE_287				
+CPSM_MOUSE_287	8	S	Phosphoserine:0.512	Phosphoserine:0.512
+CPSM_MOUSE_287	18	S	Phosphoserine:0.584	Phosphoserine:0.584
+CPSM_MOUSE_287	19	T	Phosphothreonine:0.407	None
+>ACSM3_MOUSE_541				
+ACSM3_MOUSE_541	13	T	Phosphothreonine:0.179	None
+ACSM3_MOUSE_541	14	T	Phosphothreonine:0.206	None
+>SODM_MOUSE_122				
+SODM_MOUSE_122	16	S	Phosphoserine:0.775	Phosphoserine:0.775
+>SDHA_MOUSE_616				
+SDHA_MOUSE_616	2	S	Phosphoserine:0.275	None
+SDHA_MOUSE_616	21	T	Phosphothreonine:0.242	None
+>AASS_MOUSE_535				
+AASS_MOUSE_535	6	S	Phosphoserine:0.668	Phosphoserine:0.668
+AASS_MOUSE_535	8	T	Phosphothreonine:0.544	Phosphothreonine:0.544
+AASS_MOUSE_535	18	S	Phosphoserine:0.655	Phosphoserine:0.655
+>PLPHP_MOUSE_125				
+PLPHP_MOUSE_125	2	T	Phosphothreonine:0.547	Phosphothreonine:0.547
+PLPHP_MOUSE_125	5	S	Phosphoserine:0.627	Phosphoserine:0.627
+PLPHP_MOUSE_125	14	S	Phosphoserine:0.549	Phosphoserine:0.549
+PLPHP_MOUSE_125	15	S	Phosphoserine:0.576	Phosphoserine:0.576
+>DLDH_MOUSE_159				
+DLDH_MOUSE_159	9	T	Phosphothreonine:0.399	None
+DLDH_MOUSE_159	15	T	Phosphothreonine:0.36	None
+DLDH_MOUSE_159	17	T	Phosphothreonine:0.25	None
+>ECHB_MOUSE_333				
+ECHB_MOUSE_333	1	S	Phosphoserine:0.609	Phosphoserine:0.609
+>ETFA_MOUSE_75				
+>MPC2_MOUSE_26				
+>AL4A1_MOUSE_364				
+AL4A1_MOUSE_364	5	S	Phosphoserine:0.213	None
+AL4A1_MOUSE_364	19	S	Phosphoserine:0.502	Phosphoserine:0.502
+>SDHA_MOUSE_480				
+SDHA_MOUSE_480	1	S	Phosphoserine:0.699	Phosphoserine:0.699
+SDHA_MOUSE_480	5	S	Phosphoserine:0.309	None
+SDHA_MOUSE_480	14	S	Phosphoserine:0.693	Phosphoserine:0.693
+>KAD3_MOUSE_29				
+KAD3_MOUSE_29	4	T	Phosphothreonine:0.227	None
+KAD3_MOUSE_29	6	S	Phosphoserine:0.314	None
+KAD3_MOUSE_29	7	S	Phosphoserine:0.308	None
+KAD3_MOUSE_29	10	T	Phosphothreonine:0.361	None
+KAD3_MOUSE_29	19	S	Phosphoserine:0.393	None
+KAD3_MOUSE_29	20	S	Phosphoserine:0.398	None
+>ADH1_MOUSE_339				
+ADH1_MOUSE_339	20	T	Phosphothreonine:0.402	None
+>GRP75_MOUSE_138				
+GRP75_MOUSE_138	10	T	Phosphothreonine:0.316	None
+GRP75_MOUSE_138	21	S	Phosphoserine:0.252	None
+>THIL_MOUSE_75				
+THIL_MOUSE_75	2	T	Phosphothreonine:0.685	Phosphothreonine:0.685
+>EFTU_MOUSE_88				
+EFTU_MOUSE_88	1	T	Phosphothreonine:0.72	Phosphothreonine:0.72
+>FADB2_MYCTU_60				
+FADB2_MYCTU_60	2	S	Phosphoserine:0.762	Phosphoserine:0.762
+FADB2_MYCTU_60	8	S	Phosphoserine:0.838	Phosphoserine:0.838
+FADB2_MYCTU_60	13	T	Phosphothreonine:0.345	None
+>URIC_MOUSE_185				
+URIC_MOUSE_185	5	T	Phosphothreonine:0.146	None
+URIC_MOUSE_185	6	T	Phosphothreonine:0.209	None
+URIC_MOUSE_185	17	T	Phosphothreonine:0.163	None
+>ATPD_MOUSE_136				
+ATPD_MOUSE_136	14	S	Phosphoserine:0.871	Phosphoserine:0.871
+ATPD_MOUSE_136	17	S	Phosphoserine:0.846	Phosphoserine:0.846
+>ASSY_MOUSE_239				
+ASSY_MOUSE_239	8	T	Phosphothreonine:0.388	None
+ASSY_MOUSE_239	14	T	Phosphothreonine:0.337	None
+ASSY_MOUSE_239	15	T	Phosphothreonine:0.283	None
+ASSY_MOUSE_239	17	T	Phosphothreonine:0.206	None
+ASSY_MOUSE_239	18	T	Phosphothreonine:0.172	None
+ASSY_MOUSE_239	19	S	Phosphoserine:0.768	Phosphoserine:0.768
+>MMSA_MOUSE_113				
+>ECHA_MOUSE_295				
+ECHA_MOUSE_295	1	T	Phosphothreonine:0.489	None
+ECHA_MOUSE_295	10	T	Phosphothreonine:0.315	None
+>CPSM_HUMAN_1224				
+CPSM_HUMAN_1224	1	T	Phosphothreonine:0.725	Phosphothreonine:0.725
+CPSM_HUMAN_1224	3	S	Phosphoserine:0.819	Phosphoserine:0.819
+CPSM_HUMAN_1224	14	T	Phosphothreonine:0.232	None
+>CPSM_MOUSE_892				
+CPSM_MOUSE_892	9	T	Phosphothreonine:0.619	Phosphothreonine:0.619
+CPSM_MOUSE_892	15	S	Phosphoserine:0.88	Phosphoserine:0.88
+CPSM_MOUSE_892	17	S	Phosphoserine:0.87	Phosphoserine:0.87
+CPSM_MOUSE_892	19	T	Phosphothreonine:0.708	Phosphothreonine:0.708
+>PCCB_MOUSE_103				
+PCCB_MOUSE_103	16	S	Phosphoserine:0.772	Phosphoserine:0.772
+PCCB_MOUSE_103	19	T	Phosphothreonine:0.491	None
+>ACADM_MOUSE_212				
+ACADM_MOUSE_212	6	S	Phosphoserine:0.639	Phosphoserine:0.639
+ACADM_MOUSE_212	15	S	Phosphoserine:0.352	None
+ACADM_MOUSE_212	19	T	Phosphothreonine:0.206	None
+>FUMH_MOUSE_77				
+FUMH_MOUSE_77	3	T	Phosphothreonine:0.507	Phosphothreonine:0.507
+FUMH_MOUSE_77	6	S	Phosphoserine:0.476	None
+FUMH_MOUSE_77	7	T	Phosphothreonine:0.401	None
+FUMH_MOUSE_77	16	T	Phosphothreonine:0.439	None
+>ACOT1_MOUSE_338				
+ACOT1_MOUSE_338	2	S	Phosphoserine:0.747	Phosphoserine:0.747
+ACOT1_MOUSE_338	10	S	Phosphoserine:0.673	Phosphoserine:0.673
+>ACSF2_MOUSE_340				
+ACSF2_MOUSE_340	3	S	Phosphoserine:0.594	Phosphoserine:0.594
+ACSF2_MOUSE_340	4	S	Phosphoserine:0.848	Phosphoserine:0.848
+ACSF2_MOUSE_340	6	S	Phosphoserine:0.767	Phosphoserine:0.767
+ACSF2_MOUSE_340	17	S	Phosphoserine:0.587	Phosphoserine:0.587
+>CPSM_MOUSE_1486				
+CPSM_MOUSE_1486	5	S	Phosphoserine:0.37	None
+CPSM_MOUSE_1486	7	T	Phosphothreonine:0.346	None
+CPSM_MOUSE_1486	10	S	Phosphoserine:0.604	Phosphoserine:0.604
+CPSM_MOUSE_1486	12	S	Phosphoserine:0.732	Phosphoserine:0.732
+CPSM_MOUSE_1486	20	S	Phosphoserine:0.479	None
+>CISY_MOUSE_327				
+CISY_MOUSE_327	8	S	Phosphoserine:0.782	Phosphoserine:0.782
+CISY_MOUSE_327	19	T	Phosphothreonine:0.175	None
+>AATM_MOUSE_279				
+AATM_MOUSE_279	8	S	Phosphoserine:0.329	None
+>ACADL_MOUSE_201				
+ACADL_MOUSE_201	1	S	Phosphoserine:0.805	Phosphoserine:0.805
+ACADL_MOUSE_201	3	S	Phosphoserine:0.519	Phosphoserine:0.519
+ACADL_MOUSE_201	10	S	Phosphoserine:0.474	None
+ACADL_MOUSE_201	15	T	Phosphothreonine:0.165	None
+ACADL_MOUSE_201	20	S	Phosphoserine:0.625	Phosphoserine:0.625
+>ATAD3_MOUSE_393				
+ATAD3_MOUSE_393	7	T	Phosphothreonine:0.326	None
+ATAD3_MOUSE_393	17	S	Phosphoserine:0.415	None
+ATAD3_MOUSE_393	18	T	Phosphothreonine:0.353	None
+ATAD3_MOUSE_393	19	S	Phosphoserine:0.535	Phosphoserine:0.535
+>ATPB_MOUSE_459				
+ATPB_MOUSE_459	5	T	Phosphothreonine:0.191	None
+ATPB_MOUSE_459	7	S	Phosphoserine:0.376	None
+ATPB_MOUSE_459	17	S	Phosphoserine:0.846	Phosphoserine:0.846
+>BDH_MOUSE_78				
+BDH_MOUSE_78	3	S	Phosphoserine:0.358	None
+BDH_MOUSE_78	10	S	Phosphoserine:0.397	None
+>CPSM_MOUSE_1309				
+CPSM_MOUSE_1309	5	S	Phosphoserine:0.162	None
+CPSM_MOUSE_1309	16	S	Phosphoserine:0.264	None
+>3HIDH_MOUSE_208				
+3HIDH_MOUSE_208	6	T	Phosphothreonine:0.112	None
+3HIDH_MOUSE_208	9	S	Phosphoserine:0.238	None
+3HIDH_MOUSE_208	21	S	Phosphoserine:0.458	None
+>ACSM1_MOUSE_400				
+ACSM1_MOUSE_400	19	T	Phosphothreonine:0.35	None
+>ATP5H_MOUSE_48				
+ATP5H_MOUSE_48	7	S	Phosphoserine:0.833	Phosphoserine:0.833
+ATP5H_MOUSE_48	9	S	Phosphoserine:0.592	Phosphoserine:0.592
+>GSTA1_MOUSE_45				
+GSTA1_MOUSE_45	3	S	Phosphoserine:0.902	Phosphoserine:0.902
+>CPT2_MOUSE_362				
+CPT2_MOUSE_362	4	S	Phosphoserine:0.665	Phosphoserine:0.665
+CPT2_MOUSE_362	14	T	Phosphothreonine:0.258	None
+>HACL1_MOUSE_21				
+HACL1_MOUSE_21	3	S	Phosphoserine:0.843	Phosphoserine:0.843
+HACL1_MOUSE_21	8	S	Phosphoserine:0.777	Phosphoserine:0.777
+HACL1_MOUSE_21	19	T	Phosphothreonine:0.2	None
+>ECI3_MOUSE_143				
+ECI3_MOUSE_143	8	T	Phosphothreonine:0.178	None
+ECI3_MOUSE_143	9	S	Phosphoserine:0.304	None
+ECI3_MOUSE_143	10	T	Phosphothreonine:0.115	None
+>RM12_MOUSE_59				
+>GABT_MOUSE_47				
+GABT_MOUSE_47	12	T	Phosphothreonine:0.328	None
+GABT_MOUSE_47	19	S	Phosphoserine:0.645	Phosphoserine:0.645
+>ACSM1_MOUSE_81				
+ACSM1_MOUSE_81	13	S	Phosphoserine:0.576	Phosphoserine:0.576
+ACSM1_MOUSE_81	21	T	Phosphothreonine:0.18	None
+>ATPB_MOUSE_351				
+ATPB_MOUSE_351	1	T	Phosphothreonine:0.423	None
+ATPB_MOUSE_351	7	T	Phosphothreonine:0.344	None
+ATPB_MOUSE_351	8	T	Phosphothreonine:0.39	None
+ATPB_MOUSE_351	9	T	Phosphothreonine:0.364	None
+ATPB_MOUSE_351	13	S	Phosphoserine:0.879	Phosphoserine:0.879
+ATPB_MOUSE_351	15	T	Phosphothreonine:0.451	None
+ATPB_MOUSE_351	16	S	Phosphoserine:0.727	Phosphoserine:0.727
+>ARGI1_MOUSE_172				
+ARGI1_MOUSE_172	2	S	Phosphoserine:0.45	None
+ARGI1_MOUSE_172	5	T	Phosphothreonine:0.454	None
+ARGI1_MOUSE_172	9	S	Phosphoserine:0.419	None
+>SUCA_MOUSE_308				
+SUCA_MOUSE_308	19	S	Phosphoserine:0.482	None
+>LACTB_MOUSE_460				
+LACTB_MOUSE_460	5	T	Phosphothreonine:0.194	None
+LACTB_MOUSE_460	8	S	Phosphoserine:0.71	Phosphoserine:0.71
+>ETFA_MOUSE_117				
+ETFA_MOUSE_117	7	S	Phosphoserine:0.421	None
+>AL4A1_MOUSE_547				
+AL4A1_MOUSE_547	5	T	Phosphothreonine:0.272	None
+AL4A1_MOUSE_547	6	S	Phosphoserine:0.846	Phosphoserine:0.846
+AL4A1_MOUSE_547	13	T	Phosphothreonine:0.138	None
+>ECI3_MOUSE_31				
+ECI3_MOUSE_31	3	S	Phosphoserine:0.616	Phosphoserine:0.616
+ECI3_MOUSE_31	8	T	Phosphothreonine:0.387	None
+ECI3_MOUSE_31	18	S	Phosphoserine:0.516	Phosphoserine:0.516
+ECI3_MOUSE_31	19	S	Phosphoserine:0.767	Phosphoserine:0.767
+ECI3_MOUSE_31	21	S	Phosphoserine:0.745	Phosphoserine:0.745
+>CH10_MYCTU_57				
+>ECI3_MOUSE_26				
+ECI3_MOUSE_26	8	S	Phosphoserine:0.778	Phosphoserine:0.778
+ECI3_MOUSE_26	13	T	Phosphothreonine:0.279	None
+>DHB4_MOUSE_478				
+DHB4_MOUSE_478	6	T	Phosphothreonine:0.23	None
+DHB4_MOUSE_478	7	S	Phosphoserine:0.511	Phosphoserine:0.511
+>GLYM_MOUSE_280				
+GLYM_MOUSE_280	6	T	Phosphothreonine:0.342	None
+GLYM_MOUSE_280	7	T	Phosphothreonine:0.327	None
+GLYM_MOUSE_280	8	T	Phosphothreonine:0.401	None
+GLYM_MOUSE_280	9	T	Phosphothreonine:0.385	None
+GLYM_MOUSE_280	12	T	Phosphothreonine:0.547	Phosphothreonine:0.547
+GLYM_MOUSE_280	18	S	Phosphoserine:0.473	None
+>3HIDH_MOUSE_296				
+3HIDH_MOUSE_296	6	S	Phosphoserine:0.416	None
+3HIDH_MOUSE_296	8	T	Phosphothreonine:0.411	None
+3HIDH_MOUSE_296	9	S	Phosphoserine:0.451	None
+3HIDH_MOUSE_296	10	T	Phosphothreonine:0.275	None
+3HIDH_MOUSE_296	12	T	Phosphothreonine:0.783	Phosphothreonine:0.783
+3HIDH_MOUSE_296	18	S	Phosphoserine:0.705	Phosphoserine:0.705
+>ACSM1_MOUSE_210				
+ACSM1_MOUSE_210	2	S	Phosphoserine:0.66	Phosphoserine:0.66
+ACSM1_MOUSE_210	4	S	Phosphoserine:0.857	Phosphoserine:0.857
+ACSM1_MOUSE_210	8	T	Phosphothreonine:0.497	None
+ACSM1_MOUSE_210	12	S	Phosphoserine:0.443	None
+>GCST_MOUSE_151				
+GCST_MOUSE_151	4	S	Phosphoserine:0.413	None
+>ARGI1_MOUSE_266				
+ARGI1_MOUSE_266	6	T	Phosphothreonine:0.23	None
+ARGI1_MOUSE_266	12	T	Phosphothreonine:0.305	None
+ARGI1_MOUSE_266	16	S	Phosphoserine:0.496	None
+>ACADL_MOUSE_106				
+ACADL_MOUSE_106	21	S	Phosphoserine:0.765	Phosphoserine:0.765
+>SAHH_MYCTU_248				
+SAHH_MYCTU_248	8	S	Phosphoserine:0.865	Phosphoserine:0.865
+SAHH_MYCTU_248	10	T	Phosphothreonine:0.559	Phosphothreonine:0.559
+SAHH_MYCTU_248	12	S	Phosphoserine:0.661	Phosphoserine:0.661
+SAHH_MYCTU_248	20	T	Phosphothreonine:0.302	None
+>MSRA_MOUSE_133				
+MSRA_MOUSE_133	5	S	Phosphoserine:0.757	Phosphoserine:0.757
+MSRA_MOUSE_133	20	T	Phosphothreonine:0.293	None
+>DHTK1_MOUSE_629				
+DHTK1_MOUSE_629	17	S	Phosphoserine:0.654	Phosphoserine:0.654
+DHTK1_MOUSE_629	19	S	Phosphoserine:0.895	Phosphoserine:0.895
+>AASS_MOUSE_564				
+AASS_MOUSE_564	16	S	Phosphoserine:0.191	None
+>CPSM_HUMAN_369				
+CPSM_HUMAN_369	2	T	Phosphothreonine:0.231	None
+CPSM_HUMAN_369	10	S	Phosphoserine:0.254	None
+>M2GD_MOUSE_40				
+M2GD_MOUSE_40	3	S	Phosphoserine:0.877	Phosphoserine:0.877
+M2GD_MOUSE_40	6	S	Phosphoserine:0.909	Phosphoserine:0.909
+M2GD_MOUSE_40	16	T	Phosphothreonine:0.324	None
+>IVD_MOUSE_243				
+IVD_MOUSE_243	4	S	Phosphoserine:0.55	Phosphoserine:0.55
+IVD_MOUSE_243	5	T	Phosphothreonine:0.227	None
+IVD_MOUSE_243	6	S	Phosphoserine:0.399	None
+IVD_MOUSE_243	17	S	Phosphoserine:0.731	Phosphoserine:0.731
+IVD_MOUSE_243	19	T	Phosphothreonine:0.426	None
+>EFTU_MOUSE_169				
+EFTU_MOUSE_169	3	T	Phosphothreonine:0.177	None
+>GSTM1_MOUSE_173				
+>FUMH_MOUSE_406				
+FUMH_MOUSE_406	1	S	Phosphoserine:0.671	Phosphoserine:0.671
+FUMH_MOUSE_406	21	S	Phosphoserine:0.159	None
+>HIBCH_MOUSE_72				
+HIBCH_MOUSE_72	12	T	Phosphothreonine:0.282	None
+HIBCH_MOUSE_72	19	T	Phosphothreonine:0.279	None
+>QCR2_MOUSE_199				
+QCR2_MOUSE_199	13	T	Phosphothreonine:0.308	None
+QCR2_MOUSE_199	14	S	Phosphoserine:0.576	Phosphoserine:0.576
+>BHMT1_MOUSE_386				
+BHMT1_MOUSE_386	1	T	Phosphothreonine:0.617	Phosphothreonine:0.617
+BHMT1_MOUSE_386	14	T	Phosphothreonine:0.331	None
+BHMT1_MOUSE_386	15	T	Phosphothreonine:0.247	None
+>SYIM_MOUSE_317				
+SYIM_MOUSE_317	18	S	Phosphoserine:0.274	None
+SYIM_MOUSE_317	20	S	Phosphoserine:0.295	None
+>ODO1_MOUSE_488				
+ODO1_MOUSE_488	19	T	Phosphothreonine:0.224	None
+>AL1B1_MOUSE_282				
+AL1B1_MOUSE_282	8	S	Phosphoserine:0.58	Phosphoserine:0.58
+AL1B1_MOUSE_282	14	T	Phosphothreonine:0.512	Phosphothreonine:0.512
+AL1B1_MOUSE_282	21	S	Phosphoserine:0.478	None
+>CPSM_HUMAN_15				
+CPSM_HUMAN_15	2	T	Phosphothreonine:0.237	None
+CPSM_HUMAN_15	9	T	Phosphothreonine:0.268	None
+CPSM_HUMAN_15	12	T	Phosphothreonine:0.32	None
+CPSM_HUMAN_15	17	T	Phosphothreonine:0.188	None
+CPSM_HUMAN_15	20	T	Phosphothreonine:0.466	None
+>ASSY_MOUSE_340				
+ASSY_MOUSE_340	12	S	Phosphoserine:0.711	Phosphoserine:0.711
+>EFTU_MOUSE_135				
+EFTU_MOUSE_135	1	T	Phosphothreonine:0.427	None
+EFTU_MOUSE_135	15	T	Phosphothreonine:0.286	None
+EFTU_MOUSE_135	17	T	Phosphothreonine:0.264	None
+>ALDOB_MOUSE_208				
+ALDOB_MOUSE_208	9	S	Phosphoserine:0.414	None
+>ALDH2_MOUSE_54				
+ALDH2_MOUSE_54	9	S	Phosphoserine:0.556	Phosphoserine:0.556
+ALDH2_MOUSE_54	12	T	Phosphothreonine:0.571	Phosphothreonine:0.571
+ALDH2_MOUSE_54	15	T	Phosphothreonine:0.254	None
+ALDH2_MOUSE_54	19	S	Phosphoserine:0.516	Phosphoserine:0.516
+ALDH2_MOUSE_54	20	T	Phosphothreonine:0.428	None
+>ODO1_MOUSE_348				
+ODO1_MOUSE_348	7	S	Phosphoserine:0.811	Phosphoserine:0.811
+>ACSM1_MOUSE_381				
+ACSM1_MOUSE_381	1	S	Phosphoserine:0.617	Phosphoserine:0.617
+ACSM1_MOUSE_381	2	S	Phosphoserine:0.452	None
+ACSM1_MOUSE_381	4	T	Phosphothreonine:0.404	None
+ACSM1_MOUSE_381	14	S	Phosphoserine:0.822	Phosphoserine:0.822
+>SARDH_MOUSE_589				
+SARDH_MOUSE_589	18	S	Phosphoserine:0.338	None
+>DHTK1_MOUSE_768				
+DHTK1_MOUSE_768	9	S	Phosphoserine:0.861	Phosphoserine:0.861
+DHTK1_MOUSE_768	21	S	Phosphoserine:0.356	None
+>DECR_MOUSE_214				
+DECR_MOUSE_214	1	S	Phosphoserine:0.612	Phosphoserine:0.612
+DECR_MOUSE_214	7	S	Phosphoserine:0.304	None
+DECR_MOUSE_214	8	S	Phosphoserine:0.529	Phosphoserine:0.529
+DECR_MOUSE_214	9	S	Phosphoserine:0.666	Phosphoserine:0.666
+DECR_MOUSE_214	12	S	Phosphoserine:0.697	Phosphoserine:0.697
+DECR_MOUSE_214	20	S	Phosphoserine:0.745	Phosphoserine:0.745
+>PNP_MYCTU_675				
+PNP_MYCTU_675	8	T	Phosphothreonine:0.428	None
+PNP_MYCTU_675	12	T	Phosphothreonine:0.302	None
+PNP_MYCTU_675	13	T	Phosphothreonine:0.271	None
+PNP_MYCTU_675	20	S	Phosphoserine:0.793	Phosphoserine:0.793
+>MMAB_MOUSE_135				
+MMAB_MOUSE_135	3	S	Phosphoserine:0.378	None
+MMAB_MOUSE_135	4	S	Phosphoserine:0.444	None
+MMAB_MOUSE_135	13	T	Phosphothreonine:0.41	None
+>ATPA_MOUSE_402				
+ATPA_MOUSE_402	6	T	Phosphothreonine:0.13	None
+>IAH1_MOUSE_186				
+IAH1_MOUSE_186	7	T	Phosphothreonine:0.275	None
+IAH1_MOUSE_186	13	S	Phosphoserine:0.715	Phosphoserine:0.715
+IAH1_MOUSE_186	17	S	Phosphoserine:0.222	None
+IAH1_MOUSE_186	18	S	Phosphoserine:0.368	None
+IAH1_MOUSE_186	21	S	Phosphoserine:0.691	Phosphoserine:0.691
+>CP2W1_MOUSE_384				
+CP2W1_MOUSE_384	13	T	Phosphothreonine:0.7	Phosphothreonine:0.7
+CP2W1_MOUSE_384	20	T	Phosphothreonine:0.445	None
+CP2W1_MOUSE_384	21	S	Phosphoserine:0.605	Phosphoserine:0.605
+>IDHP_MOUSE_340				
+IDHP_MOUSE_340	2	T	Phosphothreonine:0.331	None
+IDHP_MOUSE_340	3	S	Phosphoserine:0.402	None
+IDHP_MOUSE_340	12	T	Phosphothreonine:0.352	None
+IDHP_MOUSE_340	21	T	Phosphothreonine:0.382	None
+>GABT_MOUSE_282				
+GABT_MOUSE_282	15	T	Phosphothreonine:0.543	Phosphothreonine:0.543
+>ECI2_MOUSE_26				
+ECI2_MOUSE_26	18	T	Phosphothreonine:0.29	None
+>FAHD2_MOUSE_208				
+FAHD2_MOUSE_208	12	T	Phosphothreonine:0.353	None
+FAHD2_MOUSE_208	15	T	Phosphothreonine:0.186	None
+>CISY_MOUSE_382				
+>PCCA_MOUSE_61				
+PCCA_MOUSE_61	8	T	Phosphothreonine:0.468	None
+>Y1488_MYCTU_180				
+Y1488_MYCTU_180	4	S	Phosphoserine:0.578	Phosphoserine:0.578
+Y1488_MYCTU_180	8	S	Phosphoserine:0.808	Phosphoserine:0.808
+>HCDH_MOUSE_28				
+HCDH_MOUSE_28	2	S	Phosphoserine:0.249	None
+HCDH_MOUSE_28	14	T	Phosphothreonine:0.323	None
+>PCCA_MOUSE_79				
+PCCA_MOUSE_79	9	T	Phosphothreonine:0.154	None
+PCCA_MOUSE_79	17	T	Phosphothreonine:0.239	None
+>NNRE_MOUSE_187				
+NNRE_MOUSE_187	9	S	Phosphoserine:0.725	Phosphoserine:0.725
+NNRE_MOUSE_187	20	S	Phosphoserine:0.66	Phosphoserine:0.66
+>ADT2_MOUSE_23				
+ADT2_MOUSE_23	10	S	Phosphoserine:0.68	Phosphoserine:0.68
+ADT2_MOUSE_23	12	T	Phosphothreonine:0.352	None
+>COASY_MOUSE_463				
+COASY_MOUSE_463	12	T	Phosphothreonine:0.418	None
+>KEG1_MOUSE_194				
+KEG1_MOUSE_194	9	S	Phosphoserine:0.295	None
+KEG1_MOUSE_194	19	T	Phosphothreonine:0.144	None
+>IVD_MOUSE_356				
+>GSTK1_MOUSE_144				
+GSTK1_MOUSE_144	4	S	Phosphoserine:0.363	None
+GSTK1_MOUSE_144	15	S	Phosphoserine:0.358	None
+GSTK1_MOUSE_144	16	T	Phosphothreonine:0.178	None
+>IDHP_MOUSE_243				
+IDHP_MOUSE_243	2	S	Phosphoserine:0.2	None
+IDHP_MOUSE_243	7	S	Phosphoserine:0.3	None
+IDHP_MOUSE_243	17	S	Phosphoserine:0.306	None
+IDHP_MOUSE_243	18	T	Phosphothreonine:0.156	None
+IDHP_MOUSE_243	21	T	Phosphothreonine:0.213	None
+>ATP5J_MOUSE_41				
+>ODO1_MOUSE_528				
+ODO1_MOUSE_528	5	T	Phosphothreonine:0.153	None
+>SYIM_MOUSE_451				
+SYIM_MOUSE_451	10	T	Phosphothreonine:0.196	None
+>TRXR2_MOUSE_172				
+TRXR2_MOUSE_172	5	T	Phosphothreonine:0.45	None
+TRXR2_MOUSE_172	16	T	Phosphothreonine:0.249	None
+TRXR2_MOUSE_172	19	S	Phosphoserine:0.7	Phosphoserine:0.7
+>GCST_MYCTU_265				
+>EST2A_MOUSE_209				
+>GNMT_MOUSE_238				
+GNMT_MOUSE_238	1	T	Phosphothreonine:0.339	None
+GNMT_MOUSE_238	6	S	Phosphoserine:0.85	Phosphoserine:0.85
+GNMT_MOUSE_238	10	S	Phosphoserine:0.481	None
+GNMT_MOUSE_238	15	S	Phosphoserine:0.362	None
+>GSTM1_MOUSE_83				
+GSTM1_MOUSE_83	1	S	Phosphoserine:0.4	None
+GSTM1_MOUSE_83	18	T	Phosphothreonine:0.855	Phosphothreonine:0.855
+>DCMC_MOUSE_210				
+DCMC_MOUSE_210	1	T	Phosphothreonine:0.391	None
+DCMC_MOUSE_210	4	S	Phosphoserine:0.771	Phosphoserine:0.771
+DCMC_MOUSE_210	13	S	Phosphoserine:0.368	None
+>SYIM_MOUSE_872				
+SYIM_MOUSE_872	5	T	Phosphothreonine:0.264	None
+SYIM_MOUSE_872	6	S	Phosphoserine:0.55	Phosphoserine:0.55
+SYIM_MOUSE_872	7	S	Phosphoserine:0.642	Phosphoserine:0.642
+SYIM_MOUSE_872	20	S	Phosphoserine:0.843	Phosphoserine:0.843
+>FAD1_MOUSE_382				
+>CISY_MOUSE_215				
+CISY_MOUSE_215	21	S	Phosphoserine:0.443	None
+>THEM4_MOUSE_175				
+THEM4_MOUSE_175	3	T	Phosphothreonine:0.217	None
+THEM4_MOUSE_175	9	T	Phosphothreonine:0.303	None
+THEM4_MOUSE_175	18	S	Phosphoserine:0.366	None
+>SUCA_MOUSE_156				
+SUCA_MOUSE_156	15	T	Phosphothreonine:0.242	None
+SUCA_MOUSE_156	19	T	Phosphothreonine:0.43	None
+SUCA_MOUSE_156	20	T	Phosphothreonine:0.295	None
+>ATAD3_MOUSE_182				
+ATAD3_MOUSE_182	1	T	Phosphothreonine:0.588	Phosphothreonine:0.588
+>ACD10_MOUSE_612				
+ACD10_MOUSE_612	10	T	Phosphothreonine:0.188	None
+ACD10_MOUSE_612	12	T	Phosphothreonine:0.278	None
+ACD10_MOUSE_612	14	S	Phosphoserine:0.366	None
+ACD10_MOUSE_612	16	S	Phosphoserine:0.37	None
+>IPYR_MOUSE_179				
+IPYR_MOUSE_179	5	S	Phosphoserine:0.699	Phosphoserine:0.699
+IPYR_MOUSE_179	18	T	Phosphothreonine:0.203	None
+>ODP2_MYCTU_539				
+ODP2_MYCTU_539	8	T	Phosphothreonine:0.467	None
+ODP2_MYCTU_539	9	T	Phosphothreonine:0.386	None
+>CPSM_MOUSE_12				
+CPSM_MOUSE_12	1	T	Phosphothreonine:0.222	None
+CPSM_MOUSE_12	5	T	Phosphothreonine:0.197	None
+CPSM_MOUSE_12	12	T	Phosphothreonine:0.153	None
+CPSM_MOUSE_12	15	S	Phosphoserine:0.247	None
+>SARDH_MOUSE_189				
+SARDH_MOUSE_189	2	S	Phosphoserine:0.669	Phosphoserine:0.669
+SARDH_MOUSE_189	6	S	Phosphoserine:0.877	Phosphoserine:0.877
+SARDH_MOUSE_189	10	T	Phosphothreonine:0.429	None
+SARDH_MOUSE_189	12	S	Phosphoserine:0.558	Phosphoserine:0.558
+>Q80X68_MOUSE_215				
+>IDHP_MOUSE_45				
+>SAHH_MYCTU_34				
+SAHH_MYCTU_34	4	S	Phosphoserine:0.86	Phosphoserine:0.86
+>IPYR_MOUSE_211				
+>ECHB_MOUSE_407				
+ECHB_MOUSE_407	12	T	Phosphothreonine:0.542	Phosphothreonine:0.542
+ECHB_MOUSE_407	16	S	Phosphoserine:0.889	Phosphoserine:0.889
+>HBA_MOUSE_41				
+HBA_MOUSE_41	6	S	Phosphoserine:0.888	Phosphoserine:0.888
+HBA_MOUSE_41	9	T	Phosphothreonine:0.252	None
+HBA_MOUSE_41	10	T	Phosphothreonine:0.254	None
+HBA_MOUSE_41	12	T	Phosphothreonine:0.255	None
+HBA_MOUSE_41	20	S	Phosphoserine:0.884	Phosphoserine:0.884
+>ACSM1_MOUSE_249				
+ACSM1_MOUSE_249	4	S	Phosphoserine:0.158	None
+ACSM1_MOUSE_249	8	S	Phosphoserine:0.355	None
+ACSM1_MOUSE_249	17	T	Phosphothreonine:0.176	None
+ACSM1_MOUSE_249	18	S	Phosphoserine:0.33	None
+>ADT1_MOUSE_245				
+ADT1_MOUSE_245	8	S	Phosphoserine:0.494	None
+ADT1_MOUSE_245	18	T	Phosphothreonine:0.266	None
+ADT1_MOUSE_245	20	T	Phosphothreonine:0.611	Phosphothreonine:0.611
+>ACSF2_MOUSE_504				
+ACSF2_MOUSE_504	16	S	Phosphoserine:0.3	None
+>ACD10_MOUSE_726				
+ACD10_MOUSE_726	7	T	Phosphothreonine:0.485	None
+ACD10_MOUSE_726	18	T	Phosphothreonine:0.347	None
+>KAT3_MOUSE_223				
+KAT3_MOUSE_223	4	T	Phosphothreonine:0.762	Phosphothreonine:0.762
+KAT3_MOUSE_223	14	T	Phosphothreonine:0.285	None
+>ACSM1_MOUSE_11				
+ACSM1_MOUSE_11	6	S	Phosphoserine:0.169	None
+ACSM1_MOUSE_11	17	S	Phosphoserine:0.447	None
+ACSM1_MOUSE_11	19	S	Phosphoserine:0.854	Phosphoserine:0.854
+ACSM1_MOUSE_11	21	T	Phosphothreonine:0.588	Phosphothreonine:0.588
+>SAHH_MYCTU_384				
+SAHH_MYCTU_384	3	S	Phosphoserine:0.217	None
+SAHH_MYCTU_384	6	T	Phosphothreonine:0.198	None
+SAHH_MYCTU_384	18	T	Phosphothreonine:0.17	None
+>COASY_MOUSE_129				
+COASY_MOUSE_129	1	T	Phosphothreonine:0.692	Phosphothreonine:0.692
+COASY_MOUSE_129	5	S	Phosphoserine:0.662	Phosphoserine:0.662
+COASY_MOUSE_129	19	T	Phosphothreonine:0.191	None
+COASY_MOUSE_129	20	S	Phosphoserine:0.203	None
+>NUD12_MOUSE_413				
+NUD12_MOUSE_413	4	S	Phosphoserine:0.691	Phosphoserine:0.691
+NUD12_MOUSE_413	5	T	Phosphothreonine:0.384	None
+NUD12_MOUSE_413	21	T	Phosphothreonine:0.223	None
+>CPSM_MOUSE_147				
+CPSM_MOUSE_147	1	S	Phosphoserine:0.542	Phosphoserine:0.542
+CPSM_MOUSE_147	10	T	Phosphothreonine:0.222	None
+CPSM_MOUSE_147	12	S	Phosphoserine:0.693	Phosphoserine:0.693
+>NIT2_MOUSE_249				
+NIT2_MOUSE_249	2	T	Phosphothreonine:0.618	Phosphothreonine:0.618
+NIT2_MOUSE_249	6	S	Phosphoserine:0.785	Phosphoserine:0.785
+>CLYBL_MOUSE_232				
+CLYBL_MOUSE_232	9	T	Phosphothreonine:0.232	None
+>ATP5J_MOUSE_22				
+ATP5J_MOUSE_22	4	S	Phosphoserine:0.386	None
+ATP5J_MOUSE_22	7	S	Phosphoserine:0.622	Phosphoserine:0.622
+ATP5J_MOUSE_22	17	T	Phosphothreonine:0.188	None
+>GRHPR_MOUSE_235				
+GRHPR_MOUSE_235	3	S	Phosphoserine:0.149	None
+GRHPR_MOUSE_235	13	T	Phosphothreonine:0.185	None
+GRHPR_MOUSE_235	20	S	Phosphoserine:0.595	Phosphoserine:0.595
+>ACSM3_MOUSE_181				
+ACSM3_MOUSE_181	17	S	Phosphoserine:0.141	None
+>KAT3_MOUSE_420				
+KAT3_MOUSE_420	5	S	Phosphoserine:0.351	None
+KAT3_MOUSE_420	10	S	Phosphoserine:0.585	Phosphoserine:0.585
+KAT3_MOUSE_420	12	S	Phosphoserine:0.373	None
+>ACON_MOUSE_31				
+ACON_MOUSE_31	4	S	Phosphoserine:0.435	None
+ACON_MOUSE_31	15	S	Phosphoserine:0.613	Phosphoserine:0.613
+ACON_MOUSE_31	20	S	Phosphoserine:0.754	Phosphoserine:0.754
+>AASS_MOUSE_901				
+AASS_MOUSE_901	10	T	Phosphothreonine:0.227	None
+>HACL1_MOUSE_444				
+HACL1_MOUSE_444	14	S	Phosphoserine:0.828	Phosphoserine:0.828
+>S14L2_MOUSE_230				
+S14L2_MOUSE_230	14	S	Phosphoserine:0.884	Phosphoserine:0.884
+>CP2W1_MOUSE_149				
+CP2W1_MOUSE_149	7	S	Phosphoserine:0.442	None
+>K2C8_MOUSE_107				
+K2C8_MOUSE_107	7	S	Phosphoserine:0.61	Phosphoserine:0.61
+K2C8_MOUSE_107	14	S	Phosphoserine:0.776	Phosphoserine:0.776
+>ACO13_MOUSE_111				
+ACO13_MOUSE_111	3	T	Phosphothreonine:0.337	None
+ACO13_MOUSE_111	12	T	Phosphothreonine:0.364	None
+ACO13_MOUSE_111	17	S	Phosphoserine:0.619	Phosphoserine:0.619
+ACO13_MOUSE_111	21	T	Phosphothreonine:0.395	None
+>ENOA_MOUSE_335				
+ENOA_MOUSE_335	9	S	Phosphoserine:0.608	Phosphoserine:0.608
+ENOA_MOUSE_335	12	S	Phosphoserine:0.559	Phosphoserine:0.559
+>PECR_MOUSE_183				
+PECR_MOUSE_183	10	T	Phosphothreonine:0.238	None
+PECR_MOUSE_183	12	S	Phosphoserine:0.461	None
+PECR_MOUSE_183	19	S	Phosphoserine:0.385	None
+PECR_MOUSE_183	20	S	Phosphoserine:0.575	Phosphoserine:0.575
+>ECH1_MOUSE_64				
+ECH1_MOUSE_64	3	S	Phosphoserine:0.399	None
+ECH1_MOUSE_64	7	T	Phosphothreonine:0.157	None
+ECH1_MOUSE_64	8	S	Phosphoserine:0.468	None
+>HMGCL_MOUSE_313				
+HMGCL_MOUSE_313	12	T	Phosphothreonine:0.423	None
+HMGCL_MOUSE_313	13	S	Phosphoserine:0.679	Phosphoserine:0.679
+HMGCL_MOUSE_313	14	S	Phosphoserine:0.296	None
+HMGCL_MOUSE_313	20	T	Phosphothreonine:0.198	None
+>ETFB_MOUSE_200				
+ETFB_MOUSE_200	5	T	Phosphothreonine:0.663	Phosphothreonine:0.663
+>ATPB_MOUSE_480				
+ATPB_MOUSE_480	6	T	Phosphothreonine:0.286	None
+ATPB_MOUSE_480	18	T	Phosphothreonine:0.378	None
+>ACSF2_MOUSE_478				
+ACSF2_MOUSE_478	12	T	Phosphothreonine:0.444	None
+ACSF2_MOUSE_478	15	T	Phosphothreonine:0.311	None
+>ENOA_MOUSE_54				
+ENOA_MOUSE_54	12	T	Phosphothreonine:0.385	None
+ENOA_MOUSE_54	20	S	Phosphoserine:0.617	Phosphoserine:0.617
+>GRP75_MOUSE_106				
+GRP75_MOUSE_106	16	T	Phosphothreonine:0.208	None
+GRP75_MOUSE_106	21	T	Phosphothreonine:0.369	None
+>AL4A1_MOUSE_291				
+AL4A1_MOUSE_291	4	T	Phosphothreonine:0.151	None
+AL4A1_MOUSE_291	6	S	Phosphoserine:0.402	None
+AL4A1_MOUSE_291	9	T	Phosphothreonine:0.251	None
+>GSTA1_MOUSE_33				
+GSTA1_MOUSE_33	15	S	Phosphoserine:0.915	Phosphoserine:0.915
+>PCCA_MOUSE_637				
+PCCA_MOUSE_637	2	T	Phosphothreonine:0.167	None
+PCCA_MOUSE_637	10	T	Phosphothreonine:0.125	None
+>SYIM_MOUSE_445				
+SYIM_MOUSE_445	6	T	Phosphothreonine:0.193	None
+SYIM_MOUSE_445	16	T	Phosphothreonine:0.16	None
+>Y1488_MYCTU_255				
+Y1488_MYCTU_255	16	T	Phosphothreonine:0.184	None
+>MOCS1_MOUSE_186				
+MOCS1_MOUSE_186	3	S	Phosphoserine:0.743	Phosphoserine:0.743
+MOCS1_MOUSE_186	6	T	Phosphothreonine:0.26	None
+>IPYR_MOUSE_139				
+>EFTU_MOUSE_55				
+EFTU_MOUSE_55	6	T	Phosphothreonine:0.416	None
+EFTU_MOUSE_55	18	T	Phosphothreonine:0.476	None
+>GCSP_MOUSE_131				
+GCSP_MOUSE_131	4	T	Phosphothreonine:0.163	None
+GCSP_MOUSE_131	10	S	Phosphoserine:0.401	None
+GCSP_MOUSE_131	17	S	Phosphoserine:0.17	None
+>CH602_MYCTU_524				
+CH602_MYCTU_524	1	T	Phosphothreonine:0.624	Phosphothreonine:0.624
+CH602_MYCTU_524	15	S	Phosphoserine:0.712	Phosphoserine:0.712
+>BHMT1_MOUSE_207				
+BHMT1_MOUSE_207	15	S	Phosphoserine:0.744	Phosphoserine:0.744
+>MMAB_MOUSE_59				
+MMAB_MOUSE_59	6	T	Phosphothreonine:0.309	None
+MMAB_MOUSE_59	8	T	Phosphothreonine:0.521	Phosphothreonine:0.521
+MMAB_MOUSE_59	14	S	Phosphoserine:0.784	Phosphoserine:0.784
+MMAB_MOUSE_59	15	S	Phosphoserine:0.426	None
+MMAB_MOUSE_59	16	T	Phosphothreonine:0.401	None
+MMAB_MOUSE_59	18	T	Phosphothreonine:0.52	Phosphothreonine:0.52
+>CPSM_HUMAN_350				
+CPSM_HUMAN_350	5	T	Phosphothreonine:0.162	None
+CPSM_HUMAN_350	21	T	Phosphothreonine:0.234	None
+>ACOT1_MOUSE_95				
+ACOT1_MOUSE_95	16	T	Phosphothreonine:0.7	Phosphothreonine:0.7
+>THTR_MOUSE_46				
+THTR_MOUSE_46	3	S	Phosphoserine:0.833	Phosphoserine:0.833
+THTR_MOUSE_46	6	T	Phosphothreonine:0.311	None
+>KAD2_MOUSE_93				
+KAD2_MOUSE_93	7	T	Phosphothreonine:0.718	Phosphothreonine:0.718
+KAD2_MOUSE_93	9	S	Phosphoserine:0.538	Phosphoserine:0.538
+>SSDH_MOUSE_506				
+SSDH_MOUSE_506	3	S	Phosphoserine:0.638	Phosphoserine:0.638
+SSDH_MOUSE_506	10	S	Phosphoserine:0.852	Phosphoserine:0.852
+>ECH1_MOUSE_111				
+ECH1_MOUSE_111	7	S	Phosphoserine:0.535	Phosphoserine:0.535
+ECH1_MOUSE_111	14	T	Phosphothreonine:0.306	None
+ECH1_MOUSE_111	15	S	Phosphoserine:0.692	Phosphoserine:0.692
+>BPHL_MOUSE_217				
+BPHL_MOUSE_217	8	S	Phosphoserine:0.496	None
+>TRXR2_MOUSE_511				
+TRXR2_MOUSE_511	1	S	Phosphoserine:0.651	Phosphoserine:0.651
+TRXR2_MOUSE_511	10	S	Phosphoserine:0.491	None
+TRXR2_MOUSE_511	13	S	Phosphoserine:0.72	Phosphoserine:0.72
+TRXR2_MOUSE_511	18	T	Phosphothreonine:0.217	None
+TRXR2_MOUSE_511	20	T	Phosphothreonine:0.406	None
+>IPYR_MOUSE_213				
+IPYR_MOUSE_213	20	S	Phosphoserine:0.365	None
+IPYR_MOUSE_213	21	T	Phosphothreonine:0.227	None
+>CYC2_MOUSE_54				
+CYC2_MOUSE_54	5	S	Phosphoserine:0.71	Phosphoserine:0.71
+CYC2_MOUSE_54	7	T	Phosphothreonine:0.309	None
+CYC2_MOUSE_54	18	S	Phosphoserine:0.653	Phosphoserine:0.653
+CYC2_MOUSE_54	21	T	Phosphothreonine:0.301	None
+>SDHA_MOUSE_361				
+>RS3_MYCTU_199				
+RS3_MYCTU_199	3	T	Phosphothreonine:0.192	None
+RS3_MYCTU_199	4	T	Phosphothreonine:0.242	None
+>IDH3A_MOUSE_58				
+IDH3A_MOUSE_58	2	S	Phosphoserine:0.609	Phosphoserine:0.609
+>SAHH_MYCTU_438				
+SAHH_MYCTU_438	2	T	Phosphothreonine:0.626	Phosphothreonine:0.626
+SAHH_MYCTU_438	10	T	Phosphothreonine:0.345	None
+>ATAD3_MOUSE_91				
+ATAD3_MOUSE_91	3	T	Phosphothreonine:0.665	Phosphothreonine:0.665
+ATAD3_MOUSE_91	10	S	Phosphoserine:0.455	None
+>KAT1_MOUSE_189				
+KAT1_MOUSE_189	4	T	Phosphothreonine:0.817	Phosphothreonine:0.817
+KAT1_MOUSE_189	14	S	Phosphoserine:0.691	Phosphoserine:0.691
+>CPSM_HUMAN_1008				
+CPSM_HUMAN_1008	1	S	Phosphoserine:0.45	None
+CPSM_HUMAN_1008	2	S	Phosphoserine:0.51	Phosphoserine:0.51
+CPSM_HUMAN_1008	5	T	Phosphothreonine:0.174	None
+CPSM_HUMAN_1008	13	T	Phosphothreonine:0.384	None
+>LACTB_MOUSE_301				
+LACTB_MOUSE_301	15	S	Phosphoserine:0.841	Phosphoserine:0.841
+LACTB_MOUSE_301	18	S	Phosphoserine:0.721	Phosphoserine:0.721
+>THEM4_MOUSE_176				
+THEM4_MOUSE_176	2	T	Phosphothreonine:0.227	None
+THEM4_MOUSE_176	8	T	Phosphothreonine:0.321	None
+THEM4_MOUSE_176	17	S	Phosphoserine:0.198	None
+>FAHD2_MOUSE_107				
+FAHD2_MOUSE_107	1	T	Phosphothreonine:0.309	None
+FAHD2_MOUSE_107	7	T	Phosphothreonine:0.179	None
+>CPSM_HUMAN_1120				
+CPSM_HUMAN_1120	2	T	Phosphothreonine:0.487	None
+CPSM_HUMAN_1120	12	S	Phosphoserine:0.573	Phosphoserine:0.573
+>ODP2_MYCTU_208				
+>ACDSB_MOUSE_159				
+ACDSB_MOUSE_159	7	S	Phosphoserine:0.757	Phosphoserine:0.757
+ACDSB_MOUSE_159	13	T	Phosphothreonine:0.143	None
+ACDSB_MOUSE_159	20	T	Phosphothreonine:0.23	None
+>ACSM3_MOUSE_24				
+ACSM3_MOUSE_24	15	T	Phosphothreonine:0.163	None
+ACSM3_MOUSE_24	17	T	Phosphothreonine:0.742	Phosphothreonine:0.742
+>ACADL_MOUSE_240				
+ACADL_MOUSE_240	2	S	Phosphoserine:0.594	Phosphoserine:0.594
+>CPSM_HUMAN_28				
+CPSM_HUMAN_28	4	T	Phosphothreonine:0.268	None
+CPSM_HUMAN_28	7	T	Phosphothreonine:0.263	None
+CPSM_HUMAN_28	15	S	Phosphoserine:0.303	None
+>EFTU_MYCTU_364				
+EFTU_MYCTU_364	6	T	Phosphothreonine:0.26	None
+EFTU_MYCTU_364	9	S	Phosphoserine:0.614	Phosphoserine:0.614
+>AADAT_MOUSE_173				
+AADAT_MOUSE_173	14	S	Phosphoserine:0.506	Phosphoserine:0.506
+AADAT_MOUSE_173	21	S	Phosphoserine:0.554	Phosphoserine:0.554
+>NLTP_MOUSE_132				
+NLTP_MOUSE_132	7	S	Phosphoserine:0.745	Phosphoserine:0.745
+NLTP_MOUSE_132	10	T	Phosphothreonine:0.382	None
+NLTP_MOUSE_132	13	S	Phosphoserine:0.72	Phosphoserine:0.72
+NLTP_MOUSE_132	16	T	Phosphothreonine:0.282	None
+NLTP_MOUSE_132	17	T	Phosphothreonine:0.794	Phosphothreonine:0.794
+NLTP_MOUSE_132	19	T	Phosphothreonine:0.36	None
+>ODBA_MOUSE_101				
+ODBA_MOUSE_101	15	S	Phosphoserine:0.293	None
+ODBA_MOUSE_101	17	T	Phosphothreonine:0.219	None
+ODBA_MOUSE_101	21	T	Phosphothreonine:0.194	None
+>ECHB_MOUSE_112				
+ECHB_MOUSE_112	5	T	Phosphothreonine:0.166	None
+ECHB_MOUSE_112	12	T	Phosphothreonine:0.182	None
+ECHB_MOUSE_112	13	S	Phosphoserine:0.231	None
+>DECR_MOUSE_36				
+DECR_MOUSE_36	1	S	Phosphoserine:0.647	Phosphoserine:0.647
+DECR_MOUSE_36	4	T	Phosphothreonine:0.284	None
+DECR_MOUSE_36	6	T	Phosphothreonine:0.433	None
+DECR_MOUSE_36	10	S	Phosphoserine:0.591	Phosphoserine:0.591
+DECR_MOUSE_36	16	S	Phosphoserine:0.233	None
+>GCST_MOUSE_294				
+GCST_MOUSE_294	4	S	Phosphoserine:0.532	Phosphoserine:0.532
+GCST_MOUSE_294	6	S	Phosphoserine:0.55	Phosphoserine:0.55
+GCST_MOUSE_294	8	T	Phosphothreonine:0.609	Phosphothreonine:0.609
+>ODP2_MYCTU_43				
+ODP2_MYCTU_43	8	S	Phosphoserine:0.723	Phosphoserine:0.723
+ODP2_MYCTU_43	9	T	Phosphothreonine:0.6	Phosphothreonine:0.6
+ODP2_MYCTU_43	14	T	Phosphothreonine:0.69	Phosphothreonine:0.69
+ODP2_MYCTU_43	18	S	Phosphoserine:0.884	Phosphoserine:0.884
+>GLYM_MOUSE_409				
+GLYM_MOUSE_409	6	S	Phosphoserine:0.455	None
+GLYM_MOUSE_409	8	T	Phosphothreonine:0.361	None
+GLYM_MOUSE_409	13	T	Phosphothreonine:0.242	None
+GLYM_MOUSE_409	19	S	Phosphoserine:0.365	None
+>SAHH_MYCTU_250				
+SAHH_MYCTU_250	6	S	Phosphoserine:0.811	Phosphoserine:0.811
+SAHH_MYCTU_250	8	T	Phosphothreonine:0.478	None
+SAHH_MYCTU_250	10	S	Phosphoserine:0.596	Phosphoserine:0.596
+SAHH_MYCTU_250	18	T	Phosphothreonine:0.228	None
+SAHH_MYCTU_250	21	S	Phosphoserine:0.536	Phosphoserine:0.536
+>CAH5B_MOUSE_195				
+CAH5B_MOUSE_195	15	T	Phosphothreonine:0.259	None
+CAH5B_MOUSE_195	18	S	Phosphoserine:0.651	Phosphoserine:0.651
+>ECI3_MOUSE_256				
+ECI3_MOUSE_256	1	T	Phosphothreonine:0.573	Phosphothreonine:0.573
+ECI3_MOUSE_256	4	T	Phosphothreonine:0.187	None
+ECI3_MOUSE_256	8	T	Phosphothreonine:0.191	None
+ECI3_MOUSE_256	12	T	Phosphothreonine:0.4	None
+ECI3_MOUSE_256	14	S	Phosphoserine:0.321	None
+ECI3_MOUSE_256	17	S	Phosphoserine:0.83	Phosphoserine:0.83
+>M2GD_MOUSE_804				
+M2GD_MOUSE_804	1	T	Phosphothreonine:0.299	None
+M2GD_MOUSE_804	2	S	Phosphoserine:0.235	None
+M2GD_MOUSE_804	4	S	Phosphoserine:0.164	None
+M2GD_MOUSE_804	6	S	Phosphoserine:0.131	None
+M2GD_MOUSE_804	8	S	Phosphoserine:0.41	None
+M2GD_MOUSE_804	12	S	Phosphoserine:0.418	None
+>PPIF_MOUSE_90				
+PPIF_MOUSE_90	3	T	Phosphothreonine:0.398	None
+PPIF_MOUSE_90	13	S	Phosphoserine:0.621	Phosphoserine:0.621
+PPIF_MOUSE_90	14	T	Phosphothreonine:0.373	None
+>BHMT1_MOUSE_132				
+BHMT1_MOUSE_132	2	S	Phosphoserine:0.514	Phosphoserine:0.514
+BHMT1_MOUSE_132	4	T	Phosphothreonine:0.615	Phosphothreonine:0.615
+BHMT1_MOUSE_132	6	S	Phosphoserine:0.384	None
+BHMT1_MOUSE_132	9	S	Phosphoserine:0.523	Phosphoserine:0.523
+BHMT1_MOUSE_132	12	S	Phosphoserine:0.619	Phosphoserine:0.619
+>GCSP_MOUSE_428				
+GCSP_MOUSE_428	3	T	Phosphothreonine:0.556	Phosphothreonine:0.556
+GCSP_MOUSE_428	7	S	Phosphoserine:0.574	Phosphoserine:0.574
+>FRDA_MOUSE_144				
+FRDA_MOUSE_144	6	T	Phosphothreonine:0.201	None
+FRDA_MOUSE_144	13	T	Phosphothreonine:0.747	Phosphothreonine:0.747
+FRDA_MOUSE_144	21	S	Phosphoserine:0.225	None
+>GLYAL_MOUSE_98				
+GLYAL_MOUSE_98	4	T	Phosphothreonine:0.658	Phosphothreonine:0.658
+GLYAL_MOUSE_98	18	S	Phosphoserine:0.25	None
+GLYAL_MOUSE_98	19	S	Phosphoserine:0.484	None
+GLYAL_MOUSE_98	21	S	Phosphoserine:0.523	Phosphoserine:0.523
+>SSDH_MOUSE_399				
+SSDH_MOUSE_399	5	T	Phosphothreonine:0.534	Phosphothreonine:0.534
+SSDH_MOUSE_399	8	T	Phosphothreonine:0.567	Phosphothreonine:0.567
+SSDH_MOUSE_399	15	S	Phosphoserine:0.891	Phosphoserine:0.891
+>DHE3_MOUSE_147				
+DHE3_MOUSE_147	4	S	Phosphoserine:0.357	None
+DHE3_MOUSE_147	8	T	Phosphothreonine:0.712	Phosphothreonine:0.712
+DHE3_MOUSE_147	17	S	Phosphoserine:0.559	Phosphoserine:0.559
+DHE3_MOUSE_147	18	T	Phosphothreonine:0.216	None
+DHE3_MOUSE_147	21	S	Phosphoserine:0.419	None
+>GCSP_MOUSE_653				
+GCSP_MOUSE_653	5	T	Phosphothreonine:0.197	None
+GCSP_MOUSE_653	12	S	Phosphoserine:0.538	Phosphoserine:0.538
+GCSP_MOUSE_653	16	T	Phosphothreonine:0.246	None
+GCSP_MOUSE_653	20	S	Phosphoserine:0.715	Phosphoserine:0.715
+>ATPO_MOUSE_176				
+ATPO_MOUSE_176	1	S	Phosphoserine:0.824	Phosphoserine:0.824
+ATPO_MOUSE_176	12	T	Phosphothreonine:0.315	None
+ATPO_MOUSE_176	15	S	Phosphoserine:0.448	None
+>ALDH2_MOUSE_488				
+ALDH2_MOUSE_488	5	S	Phosphoserine:0.873	Phosphoserine:0.873
+ALDH2_MOUSE_488	13	S	Phosphoserine:0.745	Phosphoserine:0.745
+ALDH2_MOUSE_488	15	S	Phosphoserine:0.816	Phosphoserine:0.816
+>ECHA_MOUSE_46				
+ECHA_MOUSE_46	2	T	Phosphothreonine:0.271	None
+ECHA_MOUSE_46	4	T	Phosphothreonine:0.21	None
+ECHA_MOUSE_46	21	S	Phosphoserine:0.291	None
+>GRPE1_MOUSE_32				
+GRPE1_MOUSE_32	2	S	Phosphoserine:0.813	Phosphoserine:0.813
+GRPE1_MOUSE_32	8	T	Phosphothreonine:0.318	None
+GRPE1_MOUSE_32	10	T	Phosphothreonine:0.256	None
+>MOCS1_MOUSE_363				
+>MCCB_MOUSE_348				
+MCCB_MOUSE_348	5	S	Phosphoserine:0.329	None
+MCCB_MOUSE_348	17	T	Phosphothreonine:0.272	None
+MCCB_MOUSE_348	20	T	Phosphothreonine:0.566	Phosphothreonine:0.566
+>ECHM_MOUSE_43				
+ECHM_MOUSE_43	6	T	Phosphothreonine:0.262	None
+ECHM_MOUSE_43	13	S	Phosphoserine:0.73	Phosphoserine:0.73
+ECHM_MOUSE_43	14	S	Phosphoserine:0.819	Phosphoserine:0.819
+>CH60_MOUSE_236				
+CH60_MOUSE_236	6	T	Phosphothreonine:0.147	None
+CH60_MOUSE_236	7	S	Phosphoserine:0.297	None
+>ECI3_MOUSE_278				
+ECI3_MOUSE_278	2	S	Phosphoserine:0.574	Phosphoserine:0.574
+ECI3_MOUSE_278	16	T	Phosphothreonine:0.232	None
+>ACADM_MOUSE_197				
+ACADM_MOUSE_197	7	T	Phosphothreonine:0.207	None
+ACADM_MOUSE_197	21	S	Phosphoserine:0.273	None
+>ACDSB_MOUSE_34				
+ACDSB_MOUSE_34	1	S	Phosphoserine:0.781	Phosphoserine:0.781
+ACDSB_MOUSE_34	12	S	Phosphoserine:0.507	Phosphoserine:0.507
+ACDSB_MOUSE_34	13	S	Phosphoserine:0.748	Phosphoserine:0.748
+ACDSB_MOUSE_34	20	S	Phosphoserine:0.801	Phosphoserine:0.801
+>AMPL_MOUSE_497				
+AMPL_MOUSE_497	1	T	Phosphothreonine:0.505	Phosphothreonine:0.505
+AMPL_MOUSE_497	14	S	Phosphoserine:0.577	Phosphoserine:0.577
+AMPL_MOUSE_497	18	T	Phosphothreonine:0.32	None
+AMPL_MOUSE_497	20	T	Phosphothreonine:0.311	None
+>CLYBL_MOUSE_323				
+CLYBL_MOUSE_323	3	S	Phosphoserine:0.8	Phosphoserine:0.8
+CLYBL_MOUSE_323	18	T	Phosphothreonine:0.168	None
+CLYBL_MOUSE_323	21	T	Phosphothreonine:0.34	None
+>GCSP_MOUSE_694				
+GCSP_MOUSE_694	20	T	Phosphothreonine:0.226	None
+>AL9A1_MOUSE_49				
+AL9A1_MOUSE_49	4	T	Phosphothreonine:0.17	None
+AL9A1_MOUSE_49	8	S	Phosphoserine:0.582	Phosphoserine:0.582
+>PCCA_MOUSE_460				
+PCCA_MOUSE_460	1	T	Phosphothreonine:0.624	Phosphothreonine:0.624
+PCCA_MOUSE_460	4	S	Phosphoserine:0.597	Phosphoserine:0.597
+>IDH3A_MOUSE_177				
+IDH3A_MOUSE_177	1	S	Phosphoserine:0.769	Phosphoserine:0.769
+IDH3A_MOUSE_177	6	T	Phosphothreonine:0.22	None
+IDH3A_MOUSE_177	10	S	Phosphoserine:0.309	None
+>KAT3_MOUSE_59				
+KAT3_MOUSE_59	3	S	Phosphoserine:0.532	Phosphoserine:0.532
+KAT3_MOUSE_59	10	T	Phosphothreonine:0.247	None
+KAT3_MOUSE_59	17	S	Phosphoserine:0.491	None
+>ESTD_MOUSE_224				
+ESTD_MOUSE_224	1	S	Phosphoserine:0.832	Phosphoserine:0.832
+ESTD_MOUSE_224	17	S	Phosphoserine:0.708	Phosphoserine:0.708
+>ALDOB_MOUSE_330				
+ALDOB_MOUSE_330	5	T	Phosphothreonine:0.239	None
+>DHE3_MOUSE_415				
+DHE3_MOUSE_415	5	T	Phosphothreonine:0.326	None
+DHE3_MOUSE_415	6	T	Phosphothreonine:0.862	Phosphothreonine:0.862
+>GRHPR_MOUSE_233				
+GRHPR_MOUSE_233	5	S	Phosphoserine:0.151	None
+GRHPR_MOUSE_233	15	T	Phosphothreonine:0.152	None
+>MDHC_MOUSE_125				
+MDHC_MOUSE_125	9	S	Phosphoserine:0.465	None
+MDHC_MOUSE_125	21	T	Phosphothreonine:0.488	None
+>ODO1_MOUSE_532				
+ODO1_MOUSE_532	1	T	Phosphothreonine:0.264	None
+>GCSP_MOUSE_986				
+GCSP_MOUSE_986	15	T	Phosphothreonine:0.145	None
+>GCST_MOUSE_48				
+GCST_MOUSE_48	19	S	Phosphoserine:0.551	Phosphoserine:0.551
+>FABD_MOUSE_259				
+FABD_MOUSE_259	2	S	Phosphoserine:0.314	None
+FABD_MOUSE_259	10	T	Phosphothreonine:0.439	None
+FABD_MOUSE_259	16	S	Phosphoserine:0.42	None
+FABD_MOUSE_259	21	T	Phosphothreonine:0.527	Phosphothreonine:0.527
+>ATPB_MOUSE_485				
+ATPB_MOUSE_485	1	T	Phosphothreonine:0.414	None
+ATPB_MOUSE_485	13	T	Phosphothreonine:0.32	None
+>ALDOB_MOUSE_48				
+ALDOB_MOUSE_48	2	T	Phosphothreonine:0.457	None
+ALDOB_MOUSE_48	15	T	Phosphothreonine:0.418	None
+>SODF_MYCTU_174				
+>SYIM_MOUSE_667				
+SYIM_MOUSE_667	1	T	Phosphothreonine:0.654	Phosphothreonine:0.654
+SYIM_MOUSE_667	10	S	Phosphoserine:0.566	Phosphoserine:0.566
+SYIM_MOUSE_667	12	S	Phosphoserine:0.886	Phosphoserine:0.886
+SYIM_MOUSE_667	21	T	Phosphothreonine:0.626	Phosphothreonine:0.626
+>THTR_MOUSE_266				
+THTR_MOUSE_266	20	S	Phosphoserine:0.695	Phosphoserine:0.695
+>K2C8_MOUSE_420				
+K2C8_MOUSE_420	1	S	Phosphoserine:0.708	Phosphoserine:0.708
+K2C8_MOUSE_420	7	S	Phosphoserine:0.8	Phosphoserine:0.8
+K2C8_MOUSE_420	10	T	Phosphothreonine:0.44	None
+K2C8_MOUSE_420	12	T	Phosphothreonine:0.498	None
+K2C8_MOUSE_420	13	T	Phosphothreonine:0.354	None
+K2C8_MOUSE_420	14	S	Phosphoserine:0.792	Phosphoserine:0.792
+K2C8_MOUSE_420	17	S	Phosphoserine:0.712	Phosphoserine:0.712
+K2C8_MOUSE_420	21	S	Phosphoserine:0.788	Phosphoserine:0.788
+>AK1A1_MOUSE_263				
+AK1A1_MOUSE_263	12	S	Phosphoserine:0.491	None
+AK1A1_MOUSE_263	16	S	Phosphoserine:0.179	None
+>FABD_MOUSE_365				
+FABD_MOUSE_365	12	S	Phosphoserine:0.438	None
+FABD_MOUSE_365	14	S	Phosphoserine:0.668	Phosphoserine:0.668
+>NAKD2_MOUSE_92				
+NAKD2_MOUSE_92	13	S	Phosphoserine:0.573	Phosphoserine:0.573
+NAKD2_MOUSE_92	14	S	Phosphoserine:0.772	Phosphoserine:0.772
+NAKD2_MOUSE_92	16	S	Phosphoserine:0.505	Phosphoserine:0.505
+>DHTK1_MOUSE_422				
+>ACADM_MOUSE_144				
+ACADM_MOUSE_144	17	T	Phosphothreonine:0.18	None
+>GRP75_MOUSE_646				
+GRP75_MOUSE_646	3	S	Phosphoserine:0.354	None
+GRP75_MOUSE_646	4	S	Phosphoserine:0.418	None
+GRP75_MOUSE_646	9	S	Phosphoserine:0.643	Phosphoserine:0.643
+>ACSF2_MOUSE_271				
+ACSF2_MOUSE_271	3	T	Phosphothreonine:0.338	None
+ACSF2_MOUSE_271	4	S	Phosphoserine:0.289	None
+ACSF2_MOUSE_271	6	T	Phosphothreonine:0.21	None
+ACSF2_MOUSE_271	7	T	Phosphothreonine:0.249	None
+ACSF2_MOUSE_271	14	T	Phosphothreonine:0.552	Phosphothreonine:0.552
+ACSF2_MOUSE_271	16	S	Phosphoserine:0.599	Phosphoserine:0.599
+>ES1_MOUSE_168				
+>ACSM3_MOUSE_311				
+ACSM3_MOUSE_311	2	S	Phosphoserine:0.295	None
+ACSM3_MOUSE_311	3	T	Phosphothreonine:0.14	None
+ACSM3_MOUSE_311	4	S	Phosphoserine:0.146	None
+ACSM3_MOUSE_311	8	T	Phosphothreonine:0.246	None
+ACSM3_MOUSE_311	10	S	Phosphoserine:0.247	None
+ACSM3_MOUSE_311	15	T	Phosphothreonine:0.156	None
+ACSM3_MOUSE_311	19	S	Phosphoserine:0.262	None
+>ODBA_MOUSE_61				
+ODBA_MOUSE_61	5	S	Phosphoserine:0.624	Phosphoserine:0.624
+ODBA_MOUSE_61	21	S	Phosphoserine:0.586	Phosphoserine:0.586
+>ETFB_MOUSE_124				
+ETFB_MOUSE_124	21	T	Phosphothreonine:0.438	None
+>CISY_MOUSE_208				
+>AASS_MOUSE_212				
+AASS_MOUSE_212	5	S	Phosphoserine:0.176	None
+AASS_MOUSE_212	12	S	Phosphoserine:0.418	None
+AASS_MOUSE_212	17	T	Phosphothreonine:0.131	None
+AASS_MOUSE_212	21	T	Phosphothreonine:0.308	None
+>NLTP_MOUSE_26				
+NLTP_MOUSE_26	7	T	Phosphothreonine:0.282	None
+NLTP_MOUSE_26	17	S	Phosphoserine:0.673	Phosphoserine:0.673
+>AASS_MOUSE_820				
+AASS_MOUSE_820	4	S	Phosphoserine:0.781	Phosphoserine:0.781
+AASS_MOUSE_820	10	S	Phosphoserine:0.518	Phosphoserine:0.518
+AASS_MOUSE_820	15	S	Phosphoserine:0.199	None
+AASS_MOUSE_820	18	S	Phosphoserine:0.297	None
+>RGN_MOUSE_37				
+RGN_MOUSE_37	2	S	Phosphoserine:0.555	Phosphoserine:0.555
+RGN_MOUSE_37	10	S	Phosphoserine:0.2	None
+RGN_MOUSE_37	18	T	Phosphothreonine:0.179	None
+RGN_MOUSE_37	20	S	Phosphoserine:0.234	None
+>KAD2_MOUSE_160				
+KAD2_MOUSE_160	2	S	Phosphoserine:0.746	Phosphoserine:0.746
+KAD2_MOUSE_160	19	T	Phosphothreonine:0.404	None
+>ODPA_MOUSE_244				
+ODPA_MOUSE_244	6	S	Phosphoserine:0.587	Phosphoserine:0.587
+ODPA_MOUSE_244	7	T	Phosphothreonine:0.357	None
+>MCCB_MOUSE_298				
+MCCB_MOUSE_298	6	S	Phosphoserine:0.446	None
+MCCB_MOUSE_298	16	T	Phosphothreonine:0.353	None
+MCCB_MOUSE_298	20	S	Phosphoserine:0.697	Phosphoserine:0.697
+>CH601_MYCTU_524				
+CH601_MYCTU_524	3	T	Phosphothreonine:0.385	None
+CH601_MYCTU_524	4	T	Phosphothreonine:0.216	None
+CH601_MYCTU_524	6	T	Phosphothreonine:0.399	None
+>M2GD_MOUSE_754				
+M2GD_MOUSE_754	15	T	Phosphothreonine:0.195	None
+>THIM_MOUSE_375				
+THIM_MOUSE_375	16	S	Phosphoserine:0.462	None
+>BDH_MOUSE_162				
+BDH_MOUSE_162	5	T	Phosphothreonine:0.277	None
+BDH_MOUSE_162	6	S	Phosphoserine:0.618	Phosphoserine:0.618
+BDH_MOUSE_162	9	T	Phosphothreonine:0.409	None
+BDH_MOUSE_162	21	T	Phosphothreonine:0.501	Phosphothreonine:0.501
+>S14L2_MOUSE_141				
+S14L2_MOUSE_141	9	T	Phosphothreonine:0.271	None
+S14L2_MOUSE_141	10	T	Phosphothreonine:0.161	None
+S14L2_MOUSE_141	18	T	Phosphothreonine:0.237	None
+S14L2_MOUSE_141	20	T	Phosphothreonine:0.182	None
+>EFTU_MYCTU_210				
+EFTU_MYCTU_210	1	S	Phosphoserine:0.737	Phosphoserine:0.737
+EFTU_MYCTU_210	9	T	Phosphothreonine:0.358	None
+>ATPG_MOUSE_43				
+ATPG_MOUSE_43	5	S	Phosphoserine:0.534	Phosphoserine:0.534
+ATPG_MOUSE_43	13	T	Phosphothreonine:0.12	None
+ATPG_MOUSE_43	15	S	Phosphoserine:0.222	None
+>HCD2_MOUSE_172				
+HCD2_MOUSE_172	8	S	Phosphoserine:0.701	Phosphoserine:0.701
+HCD2_MOUSE_172	10	S	Phosphoserine:0.768	Phosphoserine:0.768
+HCD2_MOUSE_172	18	T	Phosphothreonine:0.416	None
+>FAD1_MOUSE_334				
+FAD1_MOUSE_334	20	S	Phosphoserine:0.285	None
+>PCCB_MOUSE_234				
+PCCB_MOUSE_234	5	T	Phosphothreonine:0.24	None
+PCCB_MOUSE_234	12	S	Phosphoserine:0.68	Phosphoserine:0.68
+PCCB_MOUSE_234	14	T	Phosphothreonine:0.589	Phosphothreonine:0.589
+PCCB_MOUSE_234	19	T	Phosphothreonine:0.643	Phosphothreonine:0.643
+>EFTU_MOUSE_32				
+EFTU_MOUSE_32	15	S	Phosphoserine:0.88	Phosphoserine:0.88
+>HACL1_MOUSE_225				
+HACL1_MOUSE_225	16	S	Phosphoserine:0.75	Phosphoserine:0.75
+HACL1_MOUSE_225	21	S	Phosphoserine:0.784	Phosphoserine:0.784
+>FAHD2_MOUSE_293				
+>AASS_MOUSE_739				
+AASS_MOUSE_739	3	S	Phosphoserine:0.304	None
+>SAHH_MYCTU_288				
+>OTC_MOUSE_38				
+OTC_MOUSE_38	6	S	Phosphoserine:0.602	Phosphoserine:0.602
+OTC_MOUSE_38	17	T	Phosphothreonine:0.156	None
+>CPSM_HUMAN_147				
+CPSM_HUMAN_147	1	S	Phosphoserine:0.338	None
+CPSM_HUMAN_147	10	T	Phosphothreonine:0.203	None
+CPSM_HUMAN_147	12	S	Phosphoserine:0.69	Phosphoserine:0.69
+>SUCA_MOUSE_94				
+SUCA_MOUSE_94	3	T	Phosphothreonine:0.281	None
+SUCA_MOUSE_94	4	T	Phosphothreonine:0.765	Phosphothreonine:0.765
+SUCA_MOUSE_94	20	T	Phosphothreonine:0.605	Phosphothreonine:0.605
+>ECH1_MOUSE_94				
+ECH1_MOUSE_94	13	S	Phosphoserine:0.168	None
+ECH1_MOUSE_94	16	S	Phosphoserine:0.288	None
+>GABT_MOUSE_357				
+GABT_MOUSE_357	8	T	Phosphothreonine:0.624	Phosphothreonine:0.624
+GABT_MOUSE_357	10	S	Phosphoserine:0.58	Phosphoserine:0.58
+GABT_MOUSE_357	15	T	Phosphothreonine:0.224	None
+>SODC_MOUSE_24				
+SODC_MOUSE_24	5	T	Phosphothreonine:0.323	None
+SODC_MOUSE_24	13	S	Phosphoserine:0.759	Phosphoserine:0.759
+SODC_MOUSE_24	20	S	Phosphoserine:0.793	Phosphoserine:0.793
+>Y1488_MYCTU_259				
+Y1488_MYCTU_259	12	T	Phosphothreonine:0.522	Phosphothreonine:0.522
+>ECHB_MOUSE_49				
+ECHB_MOUSE_49	3	T	Phosphothreonine:0.409	None
+ECHB_MOUSE_49	5	S	Phosphoserine:0.316	None
+ECHB_MOUSE_49	8	T	Phosphothreonine:0.463	None
+>ATPB_MOUSE_225				
+ATPB_MOUSE_225	17	S	Phosphoserine:0.275	None
+>CP2W1_MOUSE_317				
+CP2W1_MOUSE_317	1	T	Phosphothreonine:0.215	None
+>GSTM1_MOUSE_199				
+GSTM1_MOUSE_199	7	S	Phosphoserine:0.487	None
+GSTM1_MOUSE_199	12	S	Phosphoserine:0.398	None
+GSTM1_MOUSE_199	13	S	Phosphoserine:0.368	None
+GSTM1_MOUSE_199	18	T	Phosphothreonine:0.676	Phosphothreonine:0.676
+>PCCA_MOUSE_150				
+PCCA_MOUSE_150	4	S	Phosphoserine:0.545	Phosphoserine:0.545
+PCCA_MOUSE_150	19	T	Phosphothreonine:0.355	None
+>S14L2_MOUSE_58				
+S14L2_MOUSE_58	5	S	Phosphoserine:0.526	Phosphoserine:0.526
+>ECHP_MOUSE_240				
+ECHP_MOUSE_240	1	T	Phosphothreonine:0.226	None
+ECHP_MOUSE_240	5	S	Phosphoserine:0.409	None
+ECHP_MOUSE_240	9	S	Phosphoserine:0.665	Phosphoserine:0.665
+>AL7A1_MOUSE_17				
+AL7A1_MOUSE_17	6	S	Phosphoserine:0.305	None
+AL7A1_MOUSE_17	9	T	Phosphothreonine:0.247	None
+AL7A1_MOUSE_17	10	S	Phosphoserine:0.327	None
+AL7A1_MOUSE_17	13	S	Phosphoserine:0.728	Phosphoserine:0.728
+AL7A1_MOUSE_17	17	S	Phosphoserine:0.392	None
+>GRP75_MOUSE_173				
+GRP75_MOUSE_173	2	S	Phosphoserine:0.601	Phosphoserine:0.601
+GRP75_MOUSE_173	15	T	Phosphothreonine:0.134	None
+>ECI2_MOUSE_175				
+ECI2_MOUSE_175	14	S	Phosphoserine:0.74	Phosphoserine:0.74
+ECI2_MOUSE_175	15	T	Phosphothreonine:0.274	None
+ECI2_MOUSE_175	18	T	Phosphothreonine:0.253	None
+>PHS2_MOUSE_54				
+PHS2_MOUSE_54	16	S	Phosphoserine:0.731	Phosphoserine:0.731
+PHS2_MOUSE_54	19	S	Phosphoserine:0.79	Phosphoserine:0.79
+>SODC_MOUSE_71				
+SODC_MOUSE_71	9	S	Phosphoserine:0.625	Phosphoserine:0.625
+>THIM_MOUSE_45				
+THIM_MOUSE_45	8	S	Phosphoserine:0.709	Phosphoserine:0.709
+THIM_MOUSE_45	16	T	Phosphothreonine:0.295	None
+THIM_MOUSE_45	19	S	Phosphoserine:0.744	Phosphoserine:0.744
+>HEM6_MOUSE_138				
+HEM6_MOUSE_138	12	T	Phosphothreonine:0.184	None
+HEM6_MOUSE_138	21	T	Phosphothreonine:0.154	None
+>KAT3_MOUSE_435				
+KAT3_MOUSE_435	14	S	Phosphoserine:0.787	Phosphoserine:0.787
+KAT3_MOUSE_435	15	T	Phosphothreonine:0.697	Phosphothreonine:0.697
+>DNAK_MYCTU_70				
+DNAK_MYCTU_70	1	T	Phosphothreonine:0.398	None
+DNAK_MYCTU_70	6	T	Phosphothreonine:0.257	None
+DNAK_MYCTU_70	9	S	Phosphoserine:0.533	Phosphoserine:0.533
+DNAK_MYCTU_70	16	S	Phosphoserine:0.821	Phosphoserine:0.821
+DNAK_MYCTU_70	19	S	Phosphoserine:0.844	Phosphoserine:0.844
+>ATAD3_MOUSE_338				
+ATAD3_MOUSE_338	7	T	Phosphothreonine:0.271	None
+ATAD3_MOUSE_338	10	T	Phosphothreonine:0.217	None
+ATAD3_MOUSE_338	15	S	Phosphoserine:0.59	Phosphoserine:0.59
+>AASS_MOUSE_481				
+AASS_MOUSE_481	6	S	Phosphoserine:0.4	None
+AASS_MOUSE_481	8	S	Phosphoserine:0.721	Phosphoserine:0.721
+AASS_MOUSE_481	9	T	Phosphothreonine:0.305	None
+AASS_MOUSE_481	18	S	Phosphoserine:0.512	Phosphoserine:0.512
+>CH601_MYCTU_140				
+CH601_MYCTU_140	4	S	Phosphoserine:0.384	None
+CH601_MYCTU_140	6	T	Phosphothreonine:0.825	Phosphothreonine:0.825
+CH601_MYCTU_140	9	S	Phosphoserine:0.662	Phosphoserine:0.662
+CH601_MYCTU_140	12	T	Phosphothreonine:0.403	None
+CH601_MYCTU_140	19	T	Phosphothreonine:0.42	None
+CH601_MYCTU_140	21	S	Phosphoserine:0.624	Phosphoserine:0.624
+>NNRE_MOUSE_264				
+NNRE_MOUSE_264	18	S	Phosphoserine:0.386	None
+>FABD_MOUSE_281				
+FABD_MOUSE_281	15	S	Phosphoserine:0.527	Phosphoserine:0.527
+>QCR2_MOUSE_435				
+QCR2_MOUSE_435	9	S	Phosphoserine:0.662	Phosphoserine:0.662
+QCR2_MOUSE_435	13	S	Phosphoserine:0.758	Phosphoserine:0.758
+QCR2_MOUSE_435	17	S	Phosphoserine:0.63	Phosphoserine:0.63
+>KAT3_MOUSE_422				
+KAT3_MOUSE_422	3	S	Phosphoserine:0.553	Phosphoserine:0.553
+KAT3_MOUSE_422	8	S	Phosphoserine:0.445	None
+KAT3_MOUSE_422	10	S	Phosphoserine:0.404	None
+>ACADL_MOUSE_358				
+ACADL_MOUSE_358	3	S	Phosphoserine:0.6	Phosphoserine:0.6
+ACADL_MOUSE_358	10	T	Phosphothreonine:0.351	None
+ACADL_MOUSE_358	15	S	Phosphoserine:0.846	Phosphoserine:0.846
+ACADL_MOUSE_358	17	S	Phosphoserine:0.729	Phosphoserine:0.729
+ACADL_MOUSE_358	19	S	Phosphoserine:0.78	Phosphoserine:0.78
+>ACON_MOUSE_458				
+ACON_MOUSE_458	20	T	Phosphothreonine:0.23	None
+>KAT3_MOUSE_83				
+KAT3_MOUSE_83	5	S	Phosphoserine:0.876	Phosphoserine:0.876
+KAT3_MOUSE_83	8	S	Phosphoserine:0.59	Phosphoserine:0.59
+KAT3_MOUSE_83	15	S	Phosphoserine:0.437	None
+>ATPA_MOUSE_194				
+ATPA_MOUSE_194	1	S	Phosphoserine:0.732	Phosphoserine:0.732
+ATPA_MOUSE_194	8	T	Phosphothreonine:0.252	None
+ATPA_MOUSE_194	15	S	Phosphoserine:0.506	Phosphoserine:0.506
+>AL9A1_MOUSE_389				
+AL9A1_MOUSE_389	1	T	Phosphothreonine:0.253	None
+AL9A1_MOUSE_389	8	T	Phosphothreonine:0.319	None
+AL9A1_MOUSE_389	20	S	Phosphoserine:0.79	Phosphoserine:0.79
+>ACON_MOUSE_346				
+ACON_MOUSE_346	19	T	Phosphothreonine:0.851	Phosphothreonine:0.851
+>S14L2_MOUSE_64				
+S14L2_MOUSE_64	20	S	Phosphoserine:0.387	None
+>ATOX1_MOUSE_38				
+ATOX1_MOUSE_38	17	S	Phosphoserine:0.725	Phosphoserine:0.725
+ATOX1_MOUSE_38	20	S	Phosphoserine:0.793	Phosphoserine:0.793
+ATOX1_MOUSE_38	21	S	Phosphoserine:0.741	Phosphoserine:0.741
+>DHB5_MOUSE_246				
+DHB5_MOUSE_246	8	S	Phosphoserine:0.79	Phosphoserine:0.79
+DHB5_MOUSE_246	16	T	Phosphothreonine:0.733	Phosphothreonine:0.733
+>K2C8_MOUSE_11				
+K2C8_MOUSE_11	2	S	Phosphoserine:0.543	Phosphoserine:0.543
+K2C8_MOUSE_11	6	T	Phosphothreonine:0.271	None
+K2C8_MOUSE_11	9	S	Phosphoserine:0.66	Phosphoserine:0.66
+K2C8_MOUSE_11	13	S	Phosphoserine:0.694	Phosphoserine:0.694
+K2C8_MOUSE_11	14	T	Phosphothreonine:0.228	None
+K2C8_MOUSE_11	15	S	Phosphoserine:0.679	Phosphoserine:0.679
+K2C8_MOUSE_11	21	S	Phosphoserine:0.605	Phosphoserine:0.605
+>LACTB_MOUSE_180				
+>ECHA_MOUSE_436				
+ECHA_MOUSE_436	2	S	Phosphoserine:0.798	Phosphoserine:0.798
+>ESTD_MOUSE_44				
+ESTD_MOUSE_44	9	S	Phosphoserine:0.299	None
+ESTD_MOUSE_44	19	S	Phosphoserine:0.162	None
+>ACOT1_MOUSE_246				
+ACOT1_MOUSE_246	8	S	Phosphoserine:0.474	None
+ACOT1_MOUSE_246	14	T	Phosphothreonine:0.116	None
+>ATAD3_MOUSE_45				
+ATAD3_MOUSE_45	7	S	Phosphoserine:0.868	Phosphoserine:0.868
+ATAD3_MOUSE_45	13	S	Phosphoserine:0.728	Phosphoserine:0.728
+ATAD3_MOUSE_45	18	T	Phosphothreonine:0.386	None
+>EST2E_MOUSE_193				
+EST2E_MOUSE_193	4	S	Phosphoserine:0.606	Phosphoserine:0.606
+EST2E_MOUSE_193	5	T	Phosphothreonine:0.25	None
+>AL4A1_MOUSE_530				
+AL4A1_MOUSE_530	6	S	Phosphoserine:0.62	Phosphoserine:0.62
+AL4A1_MOUSE_530	8	T	Phosphothreonine:0.419	None
+>ACADM_MOUSE_395				
+ACADM_MOUSE_395	19	T	Phosphothreonine:0.313	None
+>ODO1_MOUSE_251				
+ODO1_MOUSE_251	7	T	Phosphothreonine:0.28	None
+ODO1_MOUSE_251	13	T	Phosphothreonine:0.207	None
+ODO1_MOUSE_251	21	S	Phosphoserine:0.224	None
+>ATPG_MOUSE_79				
+ATPG_MOUSE_79	3	T	Phosphothreonine:0.611	Phosphothreonine:0.611
+ATPG_MOUSE_79	5	S	Phosphoserine:0.811	Phosphoserine:0.811
+>ACDSB_MOUSE_152				
+ACDSB_MOUSE_152	3	T	Phosphothreonine:0.625	Phosphothreonine:0.625
+ACDSB_MOUSE_152	14	S	Phosphoserine:0.738	Phosphoserine:0.738
+ACDSB_MOUSE_152	20	T	Phosphothreonine:0.223	None
+>LACTB_MOUSE_232				
+>MUTT1_MYCTU_133				
+>ETFA_MOUSE_206				
+ETFA_MOUSE_206	2	S	Phosphoserine:0.536	Phosphoserine:0.536
+ETFA_MOUSE_206	10	T	Phosphothreonine:0.344	None
+ETFA_MOUSE_206	12	S	Phosphoserine:0.525	Phosphoserine:0.525
+ETFA_MOUSE_206	18	T	Phosphothreonine:0.237	None
+>ALDH2_MOUSE_291				
+ALDH2_MOUSE_291	5	T	Phosphothreonine:0.287	None
+ALDH2_MOUSE_291	12	S	Phosphoserine:0.889	Phosphoserine:0.889
+ALDH2_MOUSE_291	18	S	Phosphoserine:0.846	Phosphoserine:0.846
+>SUCB2_MOUSE_379				
+SUCB2_MOUSE_379	10	T	Phosphothreonine:0.162	None
+>NIT2_MOUSE_147				
+NIT2_MOUSE_147	1	S	Phosphoserine:0.557	Phosphoserine:0.557
+NIT2_MOUSE_147	3	S	Phosphoserine:0.316	None
+NIT2_MOUSE_147	4	T	Phosphothreonine:0.148	None
+NIT2_MOUSE_147	7	T	Phosphothreonine:0.437	None
+>ATPG_MOUSE_243				
+ATPG_MOUSE_243	9	S	Phosphoserine:0.537	Phosphoserine:0.537
+ATPG_MOUSE_243	13	S	Phosphoserine:0.379	None
+ATPG_MOUSE_243	14	T	Phosphothreonine:0.244	None
+ATPG_MOUSE_243	15	T	Phosphothreonine:0.223	None
+ATPG_MOUSE_243	16	S	Phosphoserine:0.297	None
+ATPG_MOUSE_243	19	S	Phosphoserine:0.593	Phosphoserine:0.593
+>CPT2_MOUSE_439				
+CPT2_MOUSE_439	9	T	Phosphothreonine:0.438	None
+CPT2_MOUSE_439	12	T	Phosphothreonine:0.465	None
+CPT2_MOUSE_439	14	T	Phosphothreonine:0.43	None
+>GRPE1_MOUSE_157				
+GRPE1_MOUSE_157	1	T	Phosphothreonine:0.251	None
+GRPE1_MOUSE_157	10	T	Phosphothreonine:0.197	None
+>IPYR_MOUSE_260				
+IPYR_MOUSE_260	1	S	Phosphoserine:0.828	Phosphoserine:0.828
+>GRP75_MOUSE_498				
+GRP75_MOUSE_498	17	T	Phosphothreonine:0.157	None
+>ATAD3_MOUSE_339				
+ATAD3_MOUSE_339	6	T	Phosphothreonine:0.28	None
+ATAD3_MOUSE_339	9	T	Phosphothreonine:0.255	None
+ATAD3_MOUSE_339	14	S	Phosphoserine:0.663	Phosphoserine:0.663
+>ACON_MOUSE_117				
+ACON_MOUSE_117	6	S	Phosphoserine:0.241	None
+ACON_MOUSE_117	7	S	Phosphoserine:0.219	None
+ACON_MOUSE_117	16	S	Phosphoserine:0.15	None
+ACON_MOUSE_117	17	T	Phosphothreonine:0.119	None
+>COASY_MOUSE_207				
+COASY_MOUSE_207	2	T	Phosphothreonine:0.219	None
+COASY_MOUSE_207	15	S	Phosphoserine:0.144	None
+>DHB4_MOUSE_564				
+DHB4_MOUSE_564	18	T	Phosphothreonine:0.216	None
+DHB4_MOUSE_564	21	T	Phosphothreonine:0.268	None
+>CH602_MYCTU_495				
+CH602_MYCTU_495	13	T	Phosphothreonine:0.299	None
+CH602_MYCTU_495	15	S	Phosphoserine:0.45	None
+>GRP75_MOUSE_316				
+GRP75_MOUSE_316	15	S	Phosphoserine:0.454	None
+GRP75_MOUSE_316	16	S	Phosphoserine:0.268	None
+GRP75_MOUSE_316	17	S	Phosphoserine:0.419	None
+GRP75_MOUSE_316	20	T	Phosphothreonine:0.5	None
+>CAH5B_MOUSE_112				
+CAH5B_MOUSE_112	8	S	Phosphoserine:0.815	Phosphoserine:0.815
+CAH5B_MOUSE_112	9	T	Phosphothreonine:0.569	Phosphothreonine:0.569
+CAH5B_MOUSE_112	12	S	Phosphoserine:0.807	Phosphoserine:0.807
+>GSTM1_MOUSE_69				
+GSTM1_MOUSE_69	9	S	Phosphoserine:0.746	Phosphoserine:0.746
+GSTM1_MOUSE_69	13	T	Phosphothreonine:0.254	None
+GSTM1_MOUSE_69	15	S	Phosphoserine:0.46	None
+>KAT3_MOUSE_188				
+KAT3_MOUSE_188	4	S	Phosphoserine:0.275	None
+KAT3_MOUSE_188	7	T	Phosphothreonine:0.277	None
+KAT3_MOUSE_188	13	T	Phosphothreonine:0.27	None
+KAT3_MOUSE_188	14	S	Phosphoserine:0.746	Phosphoserine:0.746
+KAT3_MOUSE_188	15	S	Phosphoserine:0.538	Phosphoserine:0.538
+KAT3_MOUSE_188	18	T	Phosphothreonine:0.428	None
+>GCST_MOUSE_313				
+>ATP5J_MOUSE_77				
+>MMSA_MOUSE_517				
+MMSA_MOUSE_517	1	T	Phosphothreonine:0.527	Phosphothreonine:0.527
+MMSA_MOUSE_517	5	T	Phosphothreonine:0.372	None
+MMSA_MOUSE_517	7	T	Phosphothreonine:0.421	None
+MMSA_MOUSE_517	8	S	Phosphoserine:0.54	Phosphoserine:0.54
+MMSA_MOUSE_517	16	T	Phosphothreonine:0.5	None
+MMSA_MOUSE_517	18	S	Phosphoserine:0.691	Phosphoserine:0.691
+MMSA_MOUSE_517	19	S	Phosphoserine:0.886	Phosphoserine:0.886
+>DNAK_MYCTU_131				
+DNAK_MYCTU_131	10	T	Phosphothreonine:0.423	None
+>GRPE1_MOUSE_58				
+GRPE1_MOUSE_58	4	T	Phosphothreonine:0.456	None
+GRPE1_MOUSE_58	8	S	Phosphoserine:0.772	Phosphoserine:0.772
+GRPE1_MOUSE_58	12	T	Phosphothreonine:0.596	Phosphothreonine:0.596
+>MOCS1_MOUSE_98				
+MOCS1_MOUSE_98	9	T	Phosphothreonine:0.878	Phosphothreonine:0.878
+MOCS1_MOUSE_98	16	T	Phosphothreonine:0.293	None
+MOCS1_MOUSE_98	17	T	Phosphothreonine:0.26	None
+>ODP2_MYCTU_302				
+>ASSY_MOUSE_165				
+ASSY_MOUSE_165	20	T	Phosphothreonine:0.863	Phosphothreonine:0.863
+>KBL_MOUSE_365				
+KBL_MOUSE_365	2	S	Phosphoserine:0.677	Phosphoserine:0.677
+KBL_MOUSE_365	3	S	Phosphoserine:0.719	Phosphoserine:0.719
+KBL_MOUSE_365	20	S	Phosphoserine:0.554	Phosphoserine:0.554
+>Y1488_MYCTU_332				
+Y1488_MYCTU_332	4	S	Phosphoserine:0.899	Phosphoserine:0.899
+>CHDH_MOUSE_104				
+CHDH_MOUSE_104	5	S	Phosphoserine:0.172	None
+CHDH_MOUSE_104	18	T	Phosphothreonine:0.121	None
+>PNP_MYCTU_60				
+PNP_MYCTU_60	5	S	Phosphoserine:0.379	None
+PNP_MYCTU_60	7	T	Phosphothreonine:0.296	None
+PNP_MYCTU_60	8	T	Phosphothreonine:0.39	None
+PNP_MYCTU_60	10	S	Phosphoserine:0.637	Phosphoserine:0.637
+>AK1A1_MOUSE_80				
+AK1A1_MOUSE_80	9	T	Phosphothreonine:0.24	None
+AK1A1_MOUSE_80	10	S	Phosphoserine:0.322	None
+AK1A1_MOUSE_80	15	T	Phosphothreonine:0.143	None
+>ATPB_MOUSE_432				
+ATPB_MOUSE_432	12	S	Phosphoserine:0.829	Phosphoserine:0.829
+>NUD12_MOUSE_433				
+NUD12_MOUSE_433	1	T	Phosphothreonine:0.525	Phosphothreonine:0.525
+NUD12_MOUSE_433	10	T	Phosphothreonine:0.216	None
+>CISY_MOUSE_107				
+CISY_MOUSE_107	1	S	Phosphoserine:0.7	Phosphoserine:0.7
+>S14L2_MOUSE_66				
+S14L2_MOUSE_66	18	S	Phosphoserine:0.272	None
+>ATAD3_MOUSE_71				
+ATAD3_MOUSE_71	7	S	Phosphoserine:0.484	None
+ATAD3_MOUSE_71	15	S	Phosphoserine:0.772	Phosphoserine:0.772
+>NIT2_MOUSE_92				
+NIT2_MOUSE_92	3	S	Phosphoserine:0.797	Phosphoserine:0.797
+NIT2_MOUSE_92	15	T	Phosphothreonine:0.341	None
+NIT2_MOUSE_92	17	S	Phosphoserine:0.506	Phosphoserine:0.506
+>CH601_MYCTU_527				
+CH601_MYCTU_527	1	T	Phosphothreonine:0.585	Phosphothreonine:0.585
+CH601_MYCTU_527	3	T	Phosphothreonine:0.675	Phosphothreonine:0.675
+>LACTB_MOUSE_346				
+LACTB_MOUSE_346	8	S	Phosphoserine:0.659	Phosphoserine:0.659
+>ACADM_MOUSE_358				
+ACADM_MOUSE_358	4	T	Phosphothreonine:0.711	Phosphothreonine:0.711
+ACADM_MOUSE_358	8	S	Phosphoserine:0.775	Phosphoserine:0.775
+>CISY_MOUSE_103				
+CISY_MOUSE_103	5	S	Phosphoserine:0.739	Phosphoserine:0.739
+>CAH5B_MOUSE_185				
+>MCCB_MOUSE_382				
+MCCB_MOUSE_382	7	S	Phosphoserine:0.333	None
+MCCB_MOUSE_382	9	S	Phosphoserine:0.635	Phosphoserine:0.635
+>DECR_MOUSE_133				
+DECR_MOUSE_133	5	T	Phosphothreonine:0.203	None
+>AMPL_MOUSE_169				
+AMPL_MOUSE_169	16	S	Phosphoserine:0.336	None
+>ESTD_MOUSE_29				
+ESTD_MOUSE_29	4	S	Phosphoserine:0.469	None
+ESTD_MOUSE_29	5	S	Phosphoserine:0.291	None
+>GCST_MOUSE_88				
+GCST_MOUSE_88	5	S	Phosphoserine:0.295	None
+GCST_MOUSE_88	10	T	Phosphothreonine:0.204	None
+>AMPL_MOUSE_455				
+AMPL_MOUSE_455	14	S	Phosphoserine:0.617	Phosphoserine:0.617
+AMPL_MOUSE_455	19	T	Phosphothreonine:0.213	None
+>EST2A_MOUSE_107				
+EST2A_MOUSE_107	21	S	Phosphoserine:0.649	Phosphoserine:0.649
+>LACTB_MOUSE_413				
+LACTB_MOUSE_413	4	S	Phosphoserine:0.395	None
+LACTB_MOUSE_413	5	T	Phosphothreonine:0.145	None
+>DHTK1_MOUSE_389				
+DHTK1_MOUSE_389	2	S	Phosphoserine:0.452	None
+DHTK1_MOUSE_389	3	S	Phosphoserine:0.636	Phosphoserine:0.636
+DHTK1_MOUSE_389	6	S	Phosphoserine:0.323	None
+DHTK1_MOUSE_389	7	S	Phosphoserine:0.466	None
+>QCR2_MOUSE_66				
+QCR2_MOUSE_66	4	S	Phosphoserine:0.405	None
+QCR2_MOUSE_66	14	S	Phosphoserine:0.731	Phosphoserine:0.731
+QCR2_MOUSE_66	19	S	Phosphoserine:0.651	Phosphoserine:0.651
+>ACSM3_MOUSE_441				
+ACSM3_MOUSE_441	3	T	Phosphothreonine:0.49	None
+ACSM3_MOUSE_441	10	S	Phosphoserine:0.634	Phosphoserine:0.634
+ACSM3_MOUSE_441	12	T	Phosphothreonine:0.408	None
+ACSM3_MOUSE_441	14	S	Phosphoserine:0.564	Phosphoserine:0.564
+ACSM3_MOUSE_441	15	T	Phosphothreonine:0.409	None
+ACSM3_MOUSE_441	19	S	Phosphoserine:0.814	Phosphoserine:0.814
+>NLTP_MOUSE_142				
+NLTP_MOUSE_142	3	S	Phosphoserine:0.443	None
+NLTP_MOUSE_142	6	T	Phosphothreonine:0.164	None
+NLTP_MOUSE_142	7	T	Phosphothreonine:0.7	Phosphothreonine:0.7
+NLTP_MOUSE_142	9	T	Phosphothreonine:0.422	None
+>DLDH_MOUSE_89				
+DLDH_MOUSE_89	1	T	Phosphothreonine:0.207	None
+DLDH_MOUSE_89	10	S	Phosphoserine:0.304	None
+DLDH_MOUSE_89	17	S	Phosphoserine:0.341	None
+>IDH3A_MOUSE_21				
+IDH3A_MOUSE_21	1	S	Phosphoserine:0.388	None
+IDH3A_MOUSE_21	10	T	Phosphothreonine:0.437	None
+IDH3A_MOUSE_21	14	T	Phosphothreonine:0.187	None
+>MCCB_MOUSE_235				
+MCCB_MOUSE_235	14	T	Phosphothreonine:0.478	None
+>GCSP_MOUSE_779				
+GCSP_MOUSE_779	14	S	Phosphoserine:0.89	Phosphoserine:0.89
+GCSP_MOUSE_779	19	S	Phosphoserine:0.491	None
+>M2GD_MOUSE_353				
+>MACD1_MOUSE_119				
+MACD1_MOUSE_119	17	T	Phosphothreonine:0.195	None
+MACD1_MOUSE_119	21	T	Phosphothreonine:0.226	None
+>AMPL_MOUSE_166				
+AMPL_MOUSE_166	19	S	Phosphoserine:0.297	None
+>ADT2_MOUSE_63				
+ADT2_MOUSE_63	17	S	Phosphoserine:0.263	None
+>IAH1_MOUSE_99				
+IAH1_MOUSE_99	3	S	Phosphoserine:0.589	Phosphoserine:0.589
+IAH1_MOUSE_99	4	S	Phosphoserine:0.714	Phosphoserine:0.714
+IAH1_MOUSE_99	20	S	Phosphoserine:0.822	Phosphoserine:0.822
+>DHB4_MOUSE_724				
+DHB4_MOUSE_724	9	S	Phosphoserine:0.506	Phosphoserine:0.506
+>SODF_MYCTU_81				
+SODF_MYCTU_81	7	T	Phosphothreonine:0.154	None
+SODF_MYCTU_81	14	S	Phosphoserine:0.83	Phosphoserine:0.83
+>FAHD2_MOUSE_202				
+FAHD2_MOUSE_202	1	S	Phosphoserine:0.476	None
+FAHD2_MOUSE_202	18	T	Phosphothreonine:0.163	None
+FAHD2_MOUSE_202	21	T	Phosphothreonine:0.206	None
+>OTC_MOUSE_331				
+OTC_MOUSE_331	1	S	Phosphoserine:0.692	Phosphoserine:0.692
+OTC_MOUSE_331	13	T	Phosphothreonine:0.293	None
+OTC_MOUSE_331	20	S	Phosphoserine:0.383	None
+>NLTP_MOUSE_250				
+NLTP_MOUSE_250	10	S	Phosphoserine:0.432	None
+>SDHA_MOUSE_41				
+SDHA_MOUSE_41	6	S	Phosphoserine:0.688	Phosphoserine:0.688
+SDHA_MOUSE_41	14	S	Phosphoserine:0.584	Phosphoserine:0.584
+SDHA_MOUSE_41	18	S	Phosphoserine:0.61	Phosphoserine:0.61
+>NPS3B_MOUSE_89				
+NPS3B_MOUSE_89	3	T	Phosphothreonine:0.168	None
+NPS3B_MOUSE_89	19	T	Phosphothreonine:0.211	None
+>HEM6_MOUSE_359				
+HEM6_MOUSE_359	5	S	Phosphoserine:0.161	None
+HEM6_MOUSE_359	17	S	Phosphoserine:0.256	None
+HEM6_MOUSE_359	19	T	Phosphothreonine:0.737	Phosphothreonine:0.737
+>PCCA_MOUSE_374				
+>NLTP_MOUSE_123				
+NLTP_MOUSE_123	16	S	Phosphoserine:0.479	None
+NLTP_MOUSE_123	19	T	Phosphothreonine:0.179	None
+>GSTA2_MOUSE_64				
+GSTA2_MOUSE_64	15	T	Phosphothreonine:0.142	None
+>PNP_MYCTU_256				
+PNP_MYCTU_256	12	S	Phosphoserine:0.649	Phosphoserine:0.649
+PNP_MYCTU_256	16	T	Phosphothreonine:0.258	None
+>EST2E_MOUSE_454				
+>CISY_MOUSE_395				
+CISY_MOUSE_395	21	S	Phosphoserine:0.762	Phosphoserine:0.762
+>HMCS2_MOUSE_473				
+HMCS2_MOUSE_473	15	S	Phosphoserine:0.89	Phosphoserine:0.89
+HMCS2_MOUSE_473	20	T	Phosphothreonine:0.557	Phosphothreonine:0.557
+HMCS2_MOUSE_473	21	S	Phosphoserine:0.674	Phosphoserine:0.674
+>ODP2_MYCTU_24				
+ODP2_MYCTU_24	2	T	Phosphothreonine:0.592	Phosphothreonine:0.592
+ODP2_MYCTU_24	5	T	Phosphothreonine:0.359	None
+ODP2_MYCTU_24	7	T	Phosphothreonine:0.415	None
+ODP2_MYCTU_24	16	T	Phosphothreonine:0.72	Phosphothreonine:0.72
+>MMSA_MOUSE_391				
+>MCEE_MOUSE_166				
+>BDH_MOUSE_177				
+BDH_MOUSE_177	6	T	Phosphothreonine:0.245	None
+BDH_MOUSE_177	9	T	Phosphothreonine:0.166	None
+BDH_MOUSE_177	10	T	Phosphothreonine:0.15	None
+BDH_MOUSE_177	12	S	Phosphoserine:0.447	None
+>EFTU_MOUSE_234				
+EFTU_MOUSE_234	12	S	Phosphoserine:0.647	Phosphoserine:0.647
+>ACOX1_MOUSE_122				
+ACOX1_MOUSE_122	5	T	Phosphothreonine:0.231	None
+ACOX1_MOUSE_122	6	T	Phosphothreonine:0.396	None
+ACOX1_MOUSE_122	16	S	Phosphoserine:0.782	Phosphoserine:0.782
+>DHB4_MOUSE_434				
+DHB4_MOUSE_434	13	S	Phosphoserine:0.355	None
+>AL4A1_MOUSE_145				
+AL4A1_MOUSE_145	1	S	Phosphoserine:0.335	None
+AL4A1_MOUSE_145	12	T	Phosphothreonine:0.29	None
+AL4A1_MOUSE_145	19	T	Phosphothreonine:0.266	None
+>GABT_MOUSE_413				
+GABT_MOUSE_413	12	T	Phosphothreonine:0.357	None
+GABT_MOUSE_413	15	T	Phosphothreonine:0.241	None
+>SUCB2_MOUSE_94				
+SUCB2_MOUSE_94	16	S	Phosphoserine:0.591	Phosphoserine:0.591
+>BDH_MOUSE_280				
+BDH_MOUSE_280	17	T	Phosphothreonine:0.163	None
+BDH_MOUSE_280	21	S	Phosphoserine:0.309	None
+>RL7_MYCTU_14				
+RL7_MYCTU_14	2	S	Phosphoserine:0.852	Phosphoserine:0.852
+RL7_MYCTU_14	3	T	Phosphothreonine:0.564	Phosphothreonine:0.564
+RL7_MYCTU_14	14	T	Phosphothreonine:0.368	None
+RL7_MYCTU_14	19	S	Phosphoserine:0.588	Phosphoserine:0.588
+>ARGI1_MOUSE_223				
+ARGI1_MOUSE_223	3	T	Phosphothreonine:0.39	None
+ARGI1_MOUSE_223	5	S	Phosphoserine:0.61	Phosphoserine:0.61
+ARGI1_MOUSE_223	18	S	Phosphoserine:0.782	Phosphoserine:0.782
+>IDHP_MOUSE_112				
+IDHP_MOUSE_112	3	T	Phosphothreonine:0.247	None
+IDHP_MOUSE_112	7	S	Phosphoserine:0.399	None
+IDHP_MOUSE_112	14	T	Phosphothreonine:0.315	None
+IDHP_MOUSE_112	16	T	Phosphothreonine:0.785	Phosphothreonine:0.785
+>AUHM_MOUSE_245				
+>ACOX1_MOUSE_267				
+ACOX1_MOUSE_267	8	T	Phosphothreonine:0.355	None
+ACOX1_MOUSE_267	14	S	Phosphoserine:0.498	None
+ACOX1_MOUSE_267	18	T	Phosphothreonine:0.162	None
+ACOX1_MOUSE_267	21	T	Phosphothreonine:0.202	None
+>EFTU_MOUSE_297				
+EFTU_MOUSE_297	15	T	Phosphothreonine:0.143	None
+EFTU_MOUSE_297	18	T	Phosphothreonine:0.13	None
+>DLDH_MOUSE_259				
+DLDH_MOUSE_259	10	S	Phosphoserine:0.436	None
+>MECR_MOUSE_99				
+>FAD1_MOUSE_328				
+>ACSF2_MOUSE_106				
+ACSF2_MOUSE_106	19	S	Phosphoserine:0.341	None
+>KAD2_MOUSE_147				
+KAD2_MOUSE_147	4	T	Phosphothreonine:0.349	None
+KAD2_MOUSE_147	12	S	Phosphoserine:0.696	Phosphoserine:0.696
+KAD2_MOUSE_147	15	S	Phosphoserine:0.703	Phosphoserine:0.703
+>CLYBL_MOUSE_215				
+CLYBL_MOUSE_215	4	S	Phosphoserine:0.721	Phosphoserine:0.721
+CLYBL_MOUSE_215	8	T	Phosphothreonine:0.451	None
+CLYBL_MOUSE_215	9	S	Phosphoserine:0.73	Phosphoserine:0.73
+CLYBL_MOUSE_215	13	T	Phosphothreonine:0.628	Phosphothreonine:0.628
+>MDHM_MOUSE_105				
+MDHM_MOUSE_105	15	T	Phosphothreonine:0.255	None
+>IVD_MOUSE_272				
+IVD_MOUSE_272	7	S	Phosphoserine:0.759	Phosphoserine:0.759
+IVD_MOUSE_272	10	S	Phosphoserine:0.52	Phosphoserine:0.52
+IVD_MOUSE_272	18	S	Phosphoserine:0.361	None
+>HMCS2_MOUSE_282				
+HMCS2_MOUSE_282	20	T	Phosphothreonine:0.461	None
+>KEG1_MOUSE_255				
+KEG1_MOUSE_255	3	S	Phosphoserine:0.652	Phosphoserine:0.652
+KEG1_MOUSE_255	8	T	Phosphothreonine:0.496	None
+>SUCA_MOUSE_314				
+SUCA_MOUSE_314	13	S	Phosphoserine:0.67	Phosphoserine:0.67
+SUCA_MOUSE_314	17	S	Phosphoserine:0.709	Phosphoserine:0.709
+>DECR_MOUSE_49				
+DECR_MOUSE_49	3	S	Phosphoserine:0.122	None
+>SAHH_MYCTU_22				
+SAHH_MYCTU_22	1	T	Phosphothreonine:0.786	Phosphothreonine:0.786
+SAHH_MYCTU_22	16	S	Phosphoserine:0.83	Phosphoserine:0.83
+>AK1A1_MOUSE_34				
+AK1A1_MOUSE_34	1	S	Phosphoserine:0.501	Phosphoserine:0.501
+AK1A1_MOUSE_34	15	S	Phosphoserine:0.706	Phosphoserine:0.706
+>SARDH_MOUSE_278				
+SARDH_MOUSE_278	10	S	Phosphoserine:0.239	None
+>EST2E_MOUSE_411				
+EST2E_MOUSE_411	2	T	Phosphothreonine:0.445	None
+>NAKD2_MOUSE_365				
+NAKD2_MOUSE_365	1	T	Phosphothreonine:0.597	Phosphothreonine:0.597
+NAKD2_MOUSE_365	13	T	Phosphothreonine:0.304	None
+NAKD2_MOUSE_365	19	S	Phosphoserine:0.808	Phosphoserine:0.808
+>DHTK1_MOUSE_245				
+DHTK1_MOUSE_245	16	S	Phosphoserine:0.75	Phosphoserine:0.75
+>HIBCH_MOUSE_266				
+HIBCH_MOUSE_266	2	S	Phosphoserine:0.576	Phosphoserine:0.576
+HIBCH_MOUSE_266	14	S	Phosphoserine:0.485	None
+HIBCH_MOUSE_266	17	S	Phosphoserine:0.237	None
+HIBCH_MOUSE_266	20	T	Phosphothreonine:0.483	None
+>ATPA_MOUSE_305				
+ATPA_MOUSE_305	1	S	Phosphoserine:0.777	Phosphoserine:0.777
+ATPA_MOUSE_305	21	S	Phosphoserine:0.683	Phosphoserine:0.683
+>DNAK_MYCTU_525				
+DNAK_MYCTU_525	1	T	Phosphothreonine:0.597	Phosphothreonine:0.597
+DNAK_MYCTU_525	6	T	Phosphothreonine:0.299	None
+DNAK_MYCTU_525	20	S	Phosphoserine:0.53	Phosphoserine:0.53
+>ODO1_MOUSE_74				
+ODO1_MOUSE_74	8	S	Phosphoserine:0.536	Phosphoserine:0.536
+ODO1_MOUSE_74	12	S	Phosphoserine:0.73	Phosphoserine:0.73
+ODO1_MOUSE_74	20	T	Phosphothreonine:0.152	None
+>ENOA_MOUSE_306				
+ENOA_MOUSE_306	13	T	Phosphothreonine:0.314	None
+ENOA_MOUSE_306	15	S	Phosphoserine:0.576	Phosphoserine:0.576
+>S14L2_MOUSE_145				
+S14L2_MOUSE_145	5	T	Phosphothreonine:0.11	None
+S14L2_MOUSE_145	6	T	Phosphothreonine:0.134	None
+S14L2_MOUSE_145	14	T	Phosphothreonine:0.315	None
+S14L2_MOUSE_145	16	T	Phosphothreonine:0.126	None
+>HEM6_MOUSE_173				
+HEM6_MOUSE_173	4	T	Phosphothreonine:0.418	None
+HEM6_MOUSE_173	18	T	Phosphothreonine:0.308	None
+>LACTB_MOUSE_474				
+LACTB_MOUSE_474	13	T	Phosphothreonine:0.312	None
+LACTB_MOUSE_474	16	S	Phosphoserine:0.446	None
+>GRP75_MOUSE_265				
+GRP75_MOUSE_265	12	S	Phosphoserine:0.554	Phosphoserine:0.554
+GRP75_MOUSE_265	13	T	Phosphothreonine:0.259	None
+GRP75_MOUSE_265	17	T	Phosphothreonine:0.187	None
+>M2GD_MOUSE_427				
+M2GD_MOUSE_427	13	T	Phosphothreonine:0.386	None
+M2GD_MOUSE_427	14	T	Phosphothreonine:0.284	None
+M2GD_MOUSE_427	15	T	Phosphothreonine:0.227	None
+M2GD_MOUSE_427	18	T	Phosphothreonine:0.201	None
+>AASS_MOUSE_707				
+AASS_MOUSE_707	9	S	Phosphoserine:0.773	Phosphoserine:0.773
+AASS_MOUSE_707	19	S	Phosphoserine:0.43	None
+AASS_MOUSE_707	20	S	Phosphoserine:0.721	Phosphoserine:0.721
+>FAHD2_MOUSE_254				
+FAHD2_MOUSE_254	2	S	Phosphoserine:0.257	None
+FAHD2_MOUSE_254	3	S	Phosphoserine:0.198	None
+FAHD2_MOUSE_254	5	T	Phosphothreonine:0.105	None
+FAHD2_MOUSE_254	12	T	Phosphothreonine:0.096	None
+FAHD2_MOUSE_254	20	S	Phosphoserine:0.487	None
+>NIT2_MOUSE_123				
+NIT2_MOUSE_123	13	T	Phosphothreonine:0.359	None
+NIT2_MOUSE_123	17	S	Phosphoserine:0.22	None
+NIT2_MOUSE_123	19	T	Phosphothreonine:0.259	None
+NIT2_MOUSE_123	21	S	Phosphoserine:0.25	None
+>QCR2_MOUSE_231				
+QCR2_MOUSE_231	6	S	Phosphoserine:0.355	None
+QCR2_MOUSE_231	8	S	Phosphoserine:0.636	Phosphoserine:0.636
+>IDH3A_MOUSE_214				
+IDH3A_MOUSE_214	4	S	Phosphoserine:0.686	Phosphoserine:0.686
+>ECH1_MOUSE_157				
+ECH1_MOUSE_157	5	T	Phosphothreonine:0.177	None
+ECH1_MOUSE_157	7	T	Phosphothreonine:0.228	None
+>ACDSB_MOUSE_88				
+ACDSB_MOUSE_88	4	S	Phosphoserine:0.684	Phosphoserine:0.684
+ACDSB_MOUSE_88	5	S	Phosphoserine:0.776	Phosphoserine:0.776
+ACDSB_MOUSE_88	10	S	Phosphoserine:0.63	Phosphoserine:0.63
+ACDSB_MOUSE_88	15	S	Phosphoserine:0.622	Phosphoserine:0.622
+>ECHM_MOUSE_228				
+ECHM_MOUSE_228	14	S	Phosphoserine:0.279	None
+ECHM_MOUSE_228	16	S	Phosphoserine:0.187	None
+>ACSM5_MOUSE_440				
+ACSM5_MOUSE_440	12	T	Phosphothreonine:0.435	None
+ACSM5_MOUSE_440	15	S	Phosphoserine:0.81	Phosphoserine:0.81
+>ATPB_MOUSE_159				
+ATPB_MOUSE_159	12	T	Phosphothreonine:0.268	None
+>ATAD3_MOUSE_157				
+ATAD3_MOUSE_157	15	S	Phosphoserine:0.656	Phosphoserine:0.656
+>KAT3_MOUSE_406				
+KAT3_MOUSE_406	8	T	Phosphothreonine:0.2	None
+KAT3_MOUSE_406	14	T	Phosphothreonine:0.27	None
+KAT3_MOUSE_406	19	S	Phosphoserine:0.294	None
+>ACD10_MOUSE_475				
+>HEM6_MOUSE_427				
+HEM6_MOUSE_427	5	S	Phosphoserine:0.875	Phosphoserine:0.875
+HEM6_MOUSE_427	10	S	Phosphoserine:0.694	Phosphoserine:0.694
+>Q80X68_MOUSE_375				
+>NLTP_MOUSE_341				
+NLTP_MOUSE_341	7	T	Phosphothreonine:0.537	Phosphothreonine:0.537
+NLTP_MOUSE_341	17	S	Phosphoserine:0.396	None
+>ODPA_MOUSE_149				
+ODPA_MOUSE_149	1	T	Phosphothreonine:0.46	None
+ODPA_MOUSE_149	14	S	Phosphoserine:0.704	Phosphoserine:0.704
+>AATC_MOUSE_369				
+AATC_MOUSE_369	4	S	Phosphoserine:0.661	Phosphoserine:0.661
+AATC_MOUSE_369	6	T	Phosphothreonine:0.264	None
+>ATAD3_MOUSE_245				
+ATAD3_MOUSE_245	7	T	Phosphothreonine:0.281	None
+ATAD3_MOUSE_245	13	T	Phosphothreonine:0.239	None
+ATAD3_MOUSE_245	15	T	Phosphothreonine:0.202	None
+ATAD3_MOUSE_245	20	T	Phosphothreonine:0.401	None
+>ACADS_MOUSE_129				
+ACADS_MOUSE_129	3	S	Phosphoserine:0.659	Phosphoserine:0.659
+ACADS_MOUSE_129	14	S	Phosphoserine:0.556	Phosphoserine:0.556
+>ATP5H_MOUSE_149				
+ATP5H_MOUSE_149	5	T	Phosphothreonine:0.146	None
+>MACD1_MOUSE_146				
+MACD1_MOUSE_146	18	S	Phosphoserine:0.59	Phosphoserine:0.59
+>HAOX1_MOUSE_153				
+HAOX1_MOUSE_153	16	T	Phosphothreonine:0.184	None
+HAOX1_MOUSE_153	19	T	Phosphothreonine:0.752	Phosphothreonine:0.752
+>ALDOB_MOUSE_140				
+ALDOB_MOUSE_140	3	S	Phosphoserine:0.775	Phosphoserine:0.775
+>ODO1_MOUSE_666				
+ODO1_MOUSE_666	8	S	Phosphoserine:0.712	Phosphoserine:0.712
+ODO1_MOUSE_666	19	S	Phosphoserine:0.317	None
+>AL7A1_MOUSE_218				
+AL7A1_MOUSE_218	4	T	Phosphothreonine:0.177	None
+AL7A1_MOUSE_218	15	T	Phosphothreonine:0.238	None
+AL7A1_MOUSE_218	16	T	Phosphothreonine:0.163	None
+AL7A1_MOUSE_218	17	S	Phosphoserine:0.46	None
+AL7A1_MOUSE_218	20	S	Phosphoserine:0.787	Phosphoserine:0.787
+>AL4A1_MOUSE_232				
+AL4A1_MOUSE_232	13	S	Phosphoserine:0.181	None
+AL4A1_MOUSE_232	15	T	Phosphothreonine:0.148	None
+AL4A1_MOUSE_232	20	S	Phosphoserine:0.568	Phosphoserine:0.568
+>MECR_MOUSE_154				
+MECR_MOUSE_154	2	S	Phosphoserine:0.821	Phosphoserine:0.821
+MECR_MOUSE_154	17	S	Phosphoserine:0.242	None
+MECR_MOUSE_154	20	T	Phosphothreonine:0.527	Phosphothreonine:0.527
+>ACAD8_MOUSE_187				
+ACAD8_MOUSE_187	10	S	Phosphoserine:0.797	Phosphoserine:0.797
+ACAD8_MOUSE_187	15	S	Phosphoserine:0.846	Phosphoserine:0.846
+ACAD8_MOUSE_187	20	S	Phosphoserine:0.884	Phosphoserine:0.884
+>NAKD2_MOUSE_441				
+NAKD2_MOUSE_441	6	S	Phosphoserine:0.599	Phosphoserine:0.599
+NAKD2_MOUSE_441	17	T	Phosphothreonine:0.137	None
+>ACOX1_MOUSE_446				
+ACOX1_MOUSE_446	9	S	Phosphoserine:0.575	Phosphoserine:0.575
+ACOX1_MOUSE_446	18	S	Phosphoserine:0.385	None
+>GCSP_MOUSE_759				
+GCSP_MOUSE_759	2	S	Phosphoserine:0.628	Phosphoserine:0.628
+GCSP_MOUSE_759	5	S	Phosphoserine:0.485	None
+GCSP_MOUSE_759	12	T	Phosphothreonine:0.317	None
+>PCCB_MOUSE_527				
+PCCB_MOUSE_527	10	S	Phosphoserine:0.45	None
+>ODO1_MOUSE_640				
+ODO1_MOUSE_640	1	T	Phosphothreonine:0.661	Phosphothreonine:0.661
+ODO1_MOUSE_640	7	S	Phosphoserine:0.359	None
+ODO1_MOUSE_640	12	T	Phosphothreonine:0.204	None
+ODO1_MOUSE_640	18	T	Phosphothreonine:0.159	None
+ODO1_MOUSE_640	21	T	Phosphothreonine:0.209	None
+>DHTK1_MOUSE_760				
+DHTK1_MOUSE_760	17	S	Phosphoserine:0.874	Phosphoserine:0.874
+>THEM4_MOUSE_31				
+THEM4_MOUSE_31	8	S	Phosphoserine:0.773	Phosphoserine:0.773
+THEM4_MOUSE_31	9	S	Phosphoserine:0.598	Phosphoserine:0.598
+>TRXR2_MOUSE_94				
+TRXR2_MOUSE_94	2	T	Phosphothreonine:0.307	None
+>CATA_MOUSE_38				
+CATA_MOUSE_38	1	T	Phosphothreonine:0.496	None
+CATA_MOUSE_38	2	T	Phosphothreonine:0.435	None
+CATA_MOUSE_38	16	T	Phosphothreonine:0.275	None
+CATA_MOUSE_38	19	S	Phosphoserine:0.687	Phosphoserine:0.687
+>SAHH_MYCTU_353				
+>SYIM_MOUSE_803				
+SYIM_MOUSE_803	3	S	Phosphoserine:0.305	None
+SYIM_MOUSE_803	4	S	Phosphoserine:0.246	None
+SYIM_MOUSE_803	8	S	Phosphoserine:0.439	None
+>ADH1_MOUSE_136				
+ADH1_MOUSE_136	3	T	Phosphothreonine:0.227	None
+ADH1_MOUSE_136	4	S	Phosphoserine:0.144	None
+ADH1_MOUSE_136	7	S	Phosphoserine:0.49	None
+ADH1_MOUSE_136	18	S	Phosphoserine:0.284	None
+ADH1_MOUSE_136	19	T	Phosphothreonine:0.169	None
+ADH1_MOUSE_136	20	S	Phosphoserine:0.616	Phosphoserine:0.616
+ADH1_MOUSE_136	21	T	Phosphothreonine:0.423	None
+>SARDH_MOUSE_167				
+SARDH_MOUSE_167	2	S	Phosphoserine:0.382	None
+SARDH_MOUSE_167	15	S	Phosphoserine:0.784	Phosphoserine:0.784
+>ENOA_MOUSE_358				
+ENOA_MOUSE_358	2	S	Phosphoserine:0.726	Phosphoserine:0.726
+ENOA_MOUSE_358	4	T	Phosphothreonine:0.236	None
+ENOA_MOUSE_358	6	S	Phosphoserine:0.59	Phosphoserine:0.59
+ENOA_MOUSE_358	15	S	Phosphoserine:0.48	None
+>NIPS1_MOUSE_238				
+NIPS1_MOUSE_238	15	S	Phosphoserine:0.431	None
+NIPS1_MOUSE_238	19	T	Phosphothreonine:0.272	None
+>NUD12_MOUSE_132				
+NUD12_MOUSE_132	1	S	Phosphoserine:0.574	Phosphoserine:0.574
+NUD12_MOUSE_132	3	T	Phosphothreonine:0.49	None
+NUD12_MOUSE_132	9	S	Phosphoserine:0.633	Phosphoserine:0.633
+NUD12_MOUSE_132	15	S	Phosphoserine:0.834	Phosphoserine:0.834
+>KBL_MOUSE_382				
+KBL_MOUSE_382	3	S	Phosphoserine:0.519	Phosphoserine:0.519
+KBL_MOUSE_382	19	S	Phosphoserine:0.362	None
+>MPC2_MOUSE_49				
+MPC2_MOUSE_49	2	T	Phosphothreonine:0.128	None
+>ADH1_MOUSE_186				
+ADH1_MOUSE_186	3	S	Phosphoserine:0.614	Phosphoserine:0.614
+ADH1_MOUSE_186	4	T	Phosphothreonine:0.389	None
+ADH1_MOUSE_186	8	S	Phosphoserine:0.757	Phosphoserine:0.757
+ADH1_MOUSE_186	16	T	Phosphothreonine:0.721	Phosphothreonine:0.721
+ADH1_MOUSE_186	19	S	Phosphoserine:0.447	None
+ADH1_MOUSE_186	20	T	Phosphothreonine:0.345	None
+>ATP5J_MOUSE_34				
+ATP5J_MOUSE_34	5	T	Phosphothreonine:0.156	None
+>HAOX1_MOUSE_357				
+HAOX1_MOUSE_357	1	S	Phosphoserine:0.463	None
+HAOX1_MOUSE_357	12	T	Phosphothreonine:0.47	None
+>AL4A1_MOUSE_400				
+AL4A1_MOUSE_400	19	S	Phosphoserine:0.418	None
+AL4A1_MOUSE_400	20	S	Phosphoserine:0.817	Phosphoserine:0.817
+>SARDH_MOUSE_535				
+SARDH_MOUSE_535	14	T	Phosphothreonine:0.198	None
+SARDH_MOUSE_535	16	S	Phosphoserine:0.176	None
+>ACSM5_MOUSE_356				
+ACSM5_MOUSE_356	14	S	Phosphoserine:0.838	Phosphoserine:0.838
+ACSM5_MOUSE_356	16	T	Phosphothreonine:0.403	None
+>DHB4_MOUSE_184				
+DHB4_MOUSE_184	4	T	Phosphothreonine:0.198	None
+DHB4_MOUSE_184	18	T	Phosphothreonine:0.176	None
+>ESTD_MOUSE_247				
+ESTD_MOUSE_247	8	T	Phosphothreonine:0.255	None
+>PCCA_MOUSE_381				
+PCCA_MOUSE_381	18	S	Phosphoserine:0.328	None
+>DECR_MOUSE_222				
+DECR_MOUSE_222	1	S	Phosphoserine:0.625	Phosphoserine:0.625
+DECR_MOUSE_222	4	S	Phosphoserine:0.708	Phosphoserine:0.708
+DECR_MOUSE_222	12	S	Phosphoserine:0.785	Phosphoserine:0.785
+>DHB5_MOUSE_247				
+DHB5_MOUSE_247	7	S	Phosphoserine:0.703	Phosphoserine:0.703
+DHB5_MOUSE_247	15	T	Phosphothreonine:0.738	Phosphothreonine:0.738
+>ACOT1_MOUSE_222				
+ACOT1_MOUSE_222	6	S	Phosphoserine:0.538	Phosphoserine:0.538
+ACOT1_MOUSE_222	21	S	Phosphoserine:0.74	Phosphoserine:0.74
+>IDHP_MOUSE_426				
+IDHP_MOUSE_426	8	S	Phosphoserine:0.463	None
+IDHP_MOUSE_426	19	T	Phosphothreonine:0.23	None
+IDHP_MOUSE_426	20	T	Phosphothreonine:0.543	Phosphothreonine:0.543
+>SARDH_MOUSE_174				
+SARDH_MOUSE_174	8	S	Phosphoserine:0.821	Phosphoserine:0.821
+SARDH_MOUSE_174	17	S	Phosphoserine:0.345	None
+SARDH_MOUSE_174	21	S	Phosphoserine:0.604	Phosphoserine:0.604
+>GSTA3_MOUSE_123				
+GSTA3_MOUSE_123	8	S	Phosphoserine:0.766	Phosphoserine:0.766
+GSTA3_MOUSE_123	16	T	Phosphothreonine:0.149	None
+>ECHP_MOUSE_463				
+ECHP_MOUSE_463	1	T	Phosphothreonine:0.346	None
+ECHP_MOUSE_463	4	S	Phosphoserine:0.46	None
+ECHP_MOUSE_463	6	S	Phosphoserine:0.33	None
+>ACOX1_MOUSE_174				
+ACOX1_MOUSE_174	4	S	Phosphoserine:0.808	Phosphoserine:0.808
+ACOX1_MOUSE_174	6	T	Phosphothreonine:0.299	None
+ACOX1_MOUSE_174	8	T	Phosphothreonine:0.25	None
+ACOX1_MOUSE_174	9	S	Phosphoserine:0.413	None
+ACOX1_MOUSE_174	20	T	Phosphothreonine:0.167	None
+ACOX1_MOUSE_174	21	S	Phosphoserine:0.297	None
+>ASSY_MOUSE_199				
+ASSY_MOUSE_199	1	S	Phosphoserine:0.735	Phosphoserine:0.735
+ASSY_MOUSE_199	20	T	Phosphothreonine:0.425	None
+>ADT2_MOUSE_199				
+ADT2_MOUSE_199	9	T	Phosphothreonine:0.387	None
+ADT2_MOUSE_199	20	T	Phosphothreonine:0.42	None
+>SUCB2_MOUSE_133				
+SUCB2_MOUSE_133	6	T	Phosphothreonine:0.23	None
+SUCB2_MOUSE_133	9	T	Phosphothreonine:0.832	Phosphothreonine:0.832
+>RM12_MOUSE_64				
+RM12_MOUSE_64	21	S	Phosphoserine:0.601	Phosphoserine:0.601
+>ATP5H_MOUSE_95				
+ATP5H_MOUSE_95	3	T	Phosphothreonine:0.659	Phosphothreonine:0.659
+ATP5H_MOUSE_95	16	S	Phosphoserine:0.652	Phosphoserine:0.652
+>D3Z7X0_MOUSE_488				
+D3Z7X0_MOUSE_488	16	S	Phosphoserine:0.212	None
