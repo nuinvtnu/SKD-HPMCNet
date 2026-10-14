@@ -3,11 +3,8 @@
 **Abstract:**
 Post-translational modifications (PTMs) are essential regulatory mechanisms that influence protein stability, interactions, and cellular signaling. Reliable prediction of PTM sites, however, remains difficult due to the limited availability of labeled data and the inherent class imbalance in most PTM datasets. In this study, we propose a Self-Knowledge Distillation (SKD-HPMCNet) framework for PTM site prediction, in which the teacher and student share the same architecture and parameters. Unlike conventional knowledge distillation approaches that require large teacher models, SKD-HPMCNet enables the model to refine its own predictions by jointly learning from hard labels and soft probability distributions. To further address the impact of imbalanced data, class weighting was incorporated into the loss function. Experimental evaluation was performed using curated benchmark datasets from dbPTM (accessed 20 August 2025), focusing on PTMs with mild class imbalance. The proposed framework is expected to improve generalization, reduce overfitting on small or imbalanced datasets, and provide a benchmark-driven approach for systematically evaluating PTM prediction tools.
 
-
-## 📁 Project Structure
-
+## Project Structure
 The repository is organized as follows:
-
 ```text
 Selt_KD_PTM/
 │
